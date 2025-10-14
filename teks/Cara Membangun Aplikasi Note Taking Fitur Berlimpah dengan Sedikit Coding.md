@@ -100,7 +100,7 @@ Tapi, mungkin Anda ingin supaya Anda bisa langsung membukanya dari desktop.
 
 Sekarang, mari kita lakukan.
 
-Pertama, aktifkan menu create link di Nautilus (file explorer Ubuntu) dengan cara yang saya bahas [di artikel ini](https://rakifsul.github.io/cara-mengaktifkan-create-link-di-nautilus-ubuntu-2404.html).
+Pertama, aktifkan menu create link di Nautilus (file explorer Ubuntu) dengan cara yang saya bahas [di artikel ini](Cara%20Mengaktifkan%20Create%20Link%20di%20Nautilus%20Ubuntu%2024.04.md).
 
 Kedua, klik kanan pada "Codium.sh" dan klik "Create Link".
 

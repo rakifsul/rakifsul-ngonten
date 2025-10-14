@@ -6,7 +6,7 @@ Setelah membaca beberapa artikel di beberapa website favorit saya, saya memutusk
 
 Saya masih ingat bahwa beberapa waktu yang lalu saya pernah membahas cara menginstall SearXNG, yang merupakan self hosted search engine.
 
-Jika Anda ingin membacanya, [klik di sini](https://rakifsul.github.io/cara-membuat-search-engine-pribadi-dengan-searxng.html).
+Jika Anda ingin membacanya, [klik di sini](Cara%20Membuat%20Search%20Engine%20Pribadi%20dengan%20SearXNG.md).
 
 Tapi, lebih dari itu, terinspirasi dari cara installnya, saya mendapat ide tentang bagaimana jika saya membuatkan artikel tentang cara memodifikasinya.
 
