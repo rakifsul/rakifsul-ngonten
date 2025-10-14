@@ -115,11 +115,15 @@ Agar Anda tidak perlu mengcopy file .desktop tadi ke folder di mana desktop shor
 
 Pertama buka preferences dari Nautilus:
 
-![](../media/Screenshot-from-2025-08-01-06-39-10.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-08-01-06-39-10.png?raw=true" alt="tampilan"/>
+</p>
 
 Kemudian toggle Create Link:
 
-![](../media/Screenshot-from-2025-08-01-06-38-18.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-08-01-06-38-18.png?raw=true" alt="tampilan"/>
+</p>
 
 ## Membuat Link untuk file notesnook.desktop
 

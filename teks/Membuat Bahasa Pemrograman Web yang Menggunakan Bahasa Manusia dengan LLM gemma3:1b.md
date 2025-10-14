@@ -150,8 +150,12 @@ Untuk menjalankannya, gunakan HTTP server. Jika langsung dari file, pasti tidak 
 
 Sekarang, setelah saya jalankan, maka outputnya seperti ini:
 
-![](../media/Screenshot-from-2025-07-27-11-43-05.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-07-27-11-43-05.png?raw=true" alt="tampilan"/>
+</p>
 
-![](../media/Screenshot-from-2025-07-27-11-43-40.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-07-27-11-43-40.png?raw=true" alt="tampilan"/>
+</p>
 
 Dari tadi saya coba prompt yang sama seperti di contoh (write a html of salmon colored button) dan berhasil. Jadi, sebaiknya Anda coba yang lain.

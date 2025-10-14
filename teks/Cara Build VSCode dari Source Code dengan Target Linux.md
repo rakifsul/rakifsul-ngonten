@@ -96,6 +96,10 @@ Nama foldernya adalah "VSCode-linux-x64".
 
 Inilah hasilnya:
 
-![](../media/Screenshot_20250911_062901.png)
+<p align="center">
+    <img src="../media/Screenshot_20250911_062901.png?raw=true" alt="tampilan"/>
+</p>
 
-![](../media/Screenshot_20250911_062845.png)
+<p align="center">
+    <img src="../media/Screenshot_20250911_062845.png?raw=true" alt="tampilan"/>
+</p>

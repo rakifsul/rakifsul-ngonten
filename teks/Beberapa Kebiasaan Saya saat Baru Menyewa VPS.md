@@ -164,7 +164,9 @@ Setelah saya pindah ke linux dan menginstall Docker, saya baru menyadari bahwa k
 
 Bahkan saya telah menginstall Docker di VPS low end saya dan penggunaan memorinya tidak terlalu besar.
 
-![](../media/Screenshot-from-2025-07-26-06-10-54.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-07-26-06-10-54.png?raw=true" alt="tampilan"/>
+</p>
 
 Untuk menginstallnya, jalankan perintah ini:
 
@@ -266,9 +268,13 @@ Buat akunnya terlebih dahulu dan gunakan untuk login ke dalamnya.
 
 Berikut ini ilustrasi Portainer:
 
-![](../media/Screenshot-from-2025-07-26-06-22-58.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-07-26-06-22-58.png?raw=true" alt="tampilan"/>
+</p>
 
-![](../media/Screenshot-from-2025-07-26-06-23-14.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-07-26-06-23-14.png?raw=true" alt="tampilan"/>
+</p>
 
 ## Penutup
 

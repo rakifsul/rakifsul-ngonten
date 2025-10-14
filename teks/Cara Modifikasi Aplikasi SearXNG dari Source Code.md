@@ -56,7 +56,9 @@ make run
 
 Nanti browser Anda akan terbuka ke [http://127.0.0.1:8888](http://127.0.0.1:8888) secara otomatis.
 
-![](../media/Screenshot-from-2025-07-19-01-11-47.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-07-19-01-11-47.png?raw=true" alt="tampilan"/>
+</p>
 
 Karena itulah, saran saya port 8888 Anda tidak digunakan untuk keperluan lain.
 
@@ -66,7 +68,9 @@ Untuk mengetahui lokasi logo SearXNG, Anda bisa klik kanan pada browser, kemudia
 
 Setelah inspector window muncul buka tab "styles" di bagian kanannya, dan cari property css yang kira-kira berupa gambar.
 
-![](../media/Screenshot-from-2025-07-19-01-12-11.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-07-19-01-12-11.png?raw=true" alt="tampilan"/>
+</p>
 
 Screenshot di atas menunjukkan bahwa background url itu sedikit "mencurigakan" karena ada file bernama "searxng.png".
 
@@ -74,7 +78,9 @@ Mari kita analisis lebih lanjut dengan mengklik link di css tadi.
 
 Setelah diklik, kita bisa lihat gambarnya:
 
-![](../media/Screenshot-from-2025-07-19-01-12-48.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-07-19-01-12-48.png?raw=true" alt="tampilan"/>
+</p>
 
 Ternyata benar.
 
@@ -84,11 +90,15 @@ Sekarang, kita kembali ke source code SearXNG yang telah dibuka dengan VSCode. J
 
 Setelah kita membuka source code SearXNG, kita hanya perlu mencari lokasi "searxng.png" dengan cara menekan CTRL+P dan menulis "searxng.png" di input box-nya.
 
-![](../media/Screenshot-from-2025-07-19-01-13-38.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-07-19-01-13-38.png?raw=true" alt="tampilan"/>
+</p>
 
 Ingat baik-baik path yang ada di hasil pencariannya dan langsung buka dengan mengkliknya.
 
-![](../media/Screenshot-from-2025-07-19-01-14-04.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-07-19-01-14-04.png?raw=true" alt="tampilan"/>
+</p>
 
 Nah. Di sinilah kita mendapatkan akar dari permasalahan kita.
 
@@ -102,7 +112,9 @@ Gambarnya tinggal dicopy, paste, dan replace ke gambar "searxng.png".
 
 Pastikan gambar baru bernama sama dengan gambar lama, yaitu "searxng.png".
 
-![](../media/Screenshot-from-2025-07-19-01-14-58.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-07-19-01-14-58.png?raw=true" alt="tampilan"/>
+</p>
 
 ## Pengujian
 
@@ -120,7 +132,9 @@ Untuk memastikan bahwa cache tersebut bersih, silakan **clear browsing data** at
 
 Sekarang inilah hasilnya:
 
-![](../media/Screenshot-from-2025-07-19-01-15-43.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-07-19-01-15-43.png?raw=true" alt="tampilan"/>
+</p>
 
 ## Penutup
 

@@ -8,7 +8,9 @@ Itu karena Publii bukan hanya sekedar menggenerate HTML untuk kemudian diupload 
 
 Anda bisa lihat screenshot dari salah satu editor postingannya di gambar ini:
 
-![](../media/Screenshot-from-2025-07-29-00-12-54-2.png)
+<p align="center">
+	<img src="../media/Screenshot-from-2025-07-29-00-12-54-2.png?raw=true" alt="tampilan"/>
+</p>
 
 Itu baru WYSIWYG editornya. Publii juga menyediakan editor markdown dan block.
 
@@ -236,11 +238,15 @@ Setelah plugin selesai dikodekan, maka Anda perlu mengimpornya sebelum menggunak
 
 Caranya, buka Publii, kemudian masuk menu "Tools and Plugins", kemudian di menu titik tiga di pojok kanan atas klik "Plugins".
 
-![](../media/Screenshot-from-2025-07-29-00-38-15-2.png)
+<p align="center">
+	<img src="../media/Screenshot-from-2025-07-29-00-38-15-2.png?raw=true" alt="tampilan"/>
+</p>
 
 Dari halaman "Plugins", klik "Install", kemudian cari zip tadi dan pilih.
 
-![](../media/Screenshot-from-2025-07-29-00-38-23-2.png)
+<p align="center">
+	<img src="../media/Screenshot-from-2025-07-29-00-38-23-2.png?raw=true" alt="tampilan"/>
+</p>
 
 Setelah masuk ke daftar plugins, enable.
 
@@ -256,7 +262,9 @@ Selanjutnya tinggal sync ke server.
 
 Jika berhasil, ilustrasinya seperti ini:
 
-![](../media/Screenshot-from-2025-07-29-00-44-40.png)
+<p align="center">
+	<img src="../media/Screenshot-from-2025-07-29-00-44-40.png?raw=true" alt="tampilan"/>
+</p>
 
 ## Penutup
 

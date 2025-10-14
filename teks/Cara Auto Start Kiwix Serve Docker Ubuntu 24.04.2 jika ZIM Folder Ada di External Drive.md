@@ -87,7 +87,9 @@ Nah, karena asumsi saya, dan juga sesuai dengan judul artikel ini, kita mengguna
 
 Begini tampilannya:
 
-![](../media/Screenshot-from-2025-08-07-02-01-38.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-08-07-02-01-38.png?raw=true" alt="tampilan"/>
+</p>
 
 Klik Add, kemudian beri input dari Command berupa path dari "check-fdd.sh" tadi.
 

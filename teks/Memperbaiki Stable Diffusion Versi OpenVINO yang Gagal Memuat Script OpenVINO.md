@@ -131,4 +131,6 @@ Banyak pelajaran yang bisa kita ambil dari kejadian ini:
 
 ## Bonus: Gallery
 
-![](../media/Screenshot_20250907_092942.png)
+<p align="center">
+    <img src="../media/Screenshot_20250907_092942.png?raw=true" alt="tampilan"/>
+</p>

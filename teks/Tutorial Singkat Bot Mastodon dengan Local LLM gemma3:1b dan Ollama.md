@@ -51,9 +51,13 @@ Kedua, pastikan Anda telah membuat aplikasi di Mastodon dan mendapatkan access t
 
 Buka preferences > development > new application, lalu lihat gambar ini dan silakan tiru (pastikan centang read,profile,write,follow,push):
 
-![](../media/Screenshot-from-2025-07-20-03-02-17-2.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-07-20-03-02-17-2.png?raw=true" alt="tampilan"/>
+</p>
 
-![](../media/Screenshot-from-2025-07-20-03-02-25-2.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-07-20-03-02-25-2.png?raw=true" alt="tampilan"/>
+</p>
 
 Nanti access token tersebut akan diinputkan ke fungsi untuk membuat rest api client dan streaming client.
 
@@ -303,9 +307,13 @@ Untuk menghentikannya, tekan CTRL+c pada terminal.
 
 Beginilah hasilnya:
 
-![](../media/Screenshot-from-2025-07-20-02-46-06.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-07-20-02-46-06.png?raw=true" alt="tampilan"/>
+</p>
 
-![](../media/Screenshot-from-2025-07-20-02-46-24.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-07-20-02-46-24.png?raw=true" alt="tampilan"/>
+</p>
 
 Lihat bahwa status saya yang "1+1 = dua-duanya buat gw" dianggap lucu oleh bot, sedangkan yang satu lagi tidak.
 
