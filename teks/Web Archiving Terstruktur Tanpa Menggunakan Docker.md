@@ -30,7 +30,7 @@ Karena saya menggunakan Brave yang masih berbasis Chromium, maka saya langsung m
 
 Setelah saya install, di pojok kanan atas Brave jadi seperti gambar ini:
 
-![](../media/Screenshot-from-2025-07-16-21-37-58.png)
+![](../media/Screenshot-from-2025-07-16-21-37-58.png){ width=100% }
 
 Saya coba jalankan "Start Archiving" dengan mencentang "Start With Autopilot".
 
