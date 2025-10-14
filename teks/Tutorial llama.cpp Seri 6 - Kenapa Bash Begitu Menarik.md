@@ -75,11 +75,11 @@ crontab -e
 
 ## Membuat CLI Cerdas yang bisa Memahami Command dalam Bahasa Manusia
 
-Error: jatah tokennya sudah habis. [Kunjungi tutorialnya di sini](https://karyakarsa.com/rakifsul/ngoding-aplikasi-cli-cerdas-tanpa-ribet-biarkan-llm-menulis-kode-aplikasi-llm).
+[Kunjungi tutorialnya di sini](https://karyakarsa.com/rakifsul/ngoding-aplikasi-cli-cerdas-tanpa-ribet-biarkan-llm-menulis-kode-aplikasi-llm).
 
 ## Mengetahui Command Arguments yang Paling Optimal pada perintah yang ada pada llama.cpp
 
-Error: jatah tokennya sudah habis. [Kunjungi script-nya di sini](https://karyakarsa.com/rakifsul/rf-llm-optimum-finder).
+[Kunjungi script-nya di sini](https://karyakarsa.com/rakifsul/rf-llm-optimum-finder).
 
 ## Akhir Kata
 
