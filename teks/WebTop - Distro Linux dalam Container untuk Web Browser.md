@@ -58,7 +58,7 @@ Lalu membuka http://ip-mini-pc-server-saya:3000, saya merasakan performanya yang
 
 Dengan tampilan sekompleks itu, webtop bisa dibuka dan dijalankan cukup cepat, meskipun via browser.
 
-![](.media/Screenshot-from-2025-06-09-02-05-16.png)
+![](../media/Screenshot-from-2025-06-09-02-05-16.png)
 
 Karena di docker compose tadi saya memilih versi latest, maka pada saat artikel ini ditulis, linux ini adalah Alpine XFCE (tiap tag berbeda jenis linux-nya. silakan cek di [dokumentasinya](https://docs.linuxserver.io/images/docker-webtop/)).
 
@@ -80,7 +80,7 @@ ssh username-mini-pc-server-saya@172.17.0.1
 # 172.17.0.1 adalah ip mini pc server saya dari sudut pandang container.
 ```
 
-![](.media/Screenshot-from-2025-06-09-02-14-15.png)
+![](../media/Screenshot-from-2025-06-09-02-14-15.png)
 
 Ternyata berhasil.
 
@@ -92,7 +92,7 @@ Saya jadi bisa melakukan SSH seperti tadi, dan bahkan mungkin melakukan hal lain
 
 Di Webtop, saya coba install gedit dan berhasil. Anda bisa lihat window gedit ada di sebelah terminal:
 
-![](.media/Screenshot-from-2025-06-09-02-23-17.png)
+![](../media/Screenshot-from-2025-06-09-02-23-17.png)
 
 ## Akhir Kata
 

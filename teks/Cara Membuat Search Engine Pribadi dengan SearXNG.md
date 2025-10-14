@@ -41,7 +41,7 @@ Dalam perintah tersebut:
 Sekarang buka url tadi dengan web browser Anda.
 
 <p align="center">
-    <img src=".media/Screenshot-from-2025-06-09-23-12-32.png?raw=true" alt="tampilan"/>
+    <img src="../media/Screenshot-from-2025-06-09-23-12-32.png?raw=true" alt="tampilan"/>
 </p>
 
 Jika berhasil, maka Anda siap untuk melakukan searching.

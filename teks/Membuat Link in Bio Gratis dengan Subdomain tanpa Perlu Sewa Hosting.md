@@ -48,7 +48,7 @@ Masuklah ke dashboard dari "Profil Saya", kemudian klik menu "Theme".
 
 Scroll ke bawah dan pilih template atau theme bernama "Light" dari kategori "Essential".
 
-![](.media/Screenshot-from-2025-06-17-13-04-03.png)
+![](../media/Screenshot-from-2025-06-17-13-04-03.png)
 
 Saya memilih theme itu karena tidak memiliki sidebar dan cenderung menempati bagian tengah dari halaman web.
 
@@ -151,17 +151,17 @@ Selanjutnya klik "Save".
 
 Setelah itu, drag gadget atau widget yang telah Anda buat tadi ke bagian teratas dari section bernama "Page Body".
 
-![](.media/Screenshot-from-2025-06-17-13-48-02.png)
+![](../media/Screenshot-from-2025-06-17-13-48-02.png)
 
 Selanjutnya, save layout dengan mengklik tombol "Save" di bagian kanan bawah layar.
 
-![](.media/Screenshot-from-2025-06-17-13-49-49.png)
+![](../media/Screenshot-from-2025-06-17-13-49-49.png)
 
 Untuk melihat hasilnya, klik menu "View Blog" atau kunjungi https://profil-saya.blogspot.com (tergantung nama yang Anda pilih).
 
 Hasil yang saya dapatkan semacam ini:
 
-![](.media/link-in-bio-2.png)
+![](../media/link-in-bio-2.png)
 
 Jika Anda masih menemui widget-widget yang tersisa, Anda bisa menghapus atau men-disable-nya di menu "Layout".
 

@@ -43,7 +43,7 @@ Dari perintah tadi, Anda bisa tahu bahwa:
 Kiwix-Serve adalah aplikasi berbasis web.
 
 <p align="center">
-    <img src=".media/Screenshot-from-2025-06-09-22-56-01.png?raw=true" alt=""/>
+    <img src="../media/Screenshot-from-2025-06-09-22-56-01.png?raw=true" alt=""/>
 </p>
 
 Jadi, Anda mengaksesnya dengan menggunakan browser.
