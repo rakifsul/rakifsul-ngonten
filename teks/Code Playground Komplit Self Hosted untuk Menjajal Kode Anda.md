@@ -12,7 +12,9 @@ Salah satu aplikasi code playground yang bisa Anda gunakan adalah [Live Codes](h
 
 Aplikasi tersebut mendukung banyak bahasa dan framework.
 
-![](../media/Screenshot-from-2025-06-22-02-35-51.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-06-22-02-35-51.png?raw=true" alt="tampilan"/>
+</p>
 
 Aplikasi tersebut bisa diinstall dengan mudah, yakni hanya cukup mendownload [zip release-nya](https://github.com/live-codes/livecodes/releases/download/v46/livecodes-v46.zip), mengekstraknya pada folder di web server Anda dan langsung menjalankannya.
 
@@ -89,7 +91,9 @@ Ekstraklah dan masukkan folder hasil ekstraksinya ke dalam folder php83.
 
 Itu karena folder /var/www/html di dalam volume docker di mount ke folder php83 yang ada di folder yang telah Anda buat di awal artikel ini.
 
-![](../media/Screenshot-from-2025-06-22-02-57-22.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-06-22-02-57-22.png?raw=true" alt="tampilan"/>
+</p>
 
 Sekarang, Anda bisa langsung menuju ke http://ip-komputer-lokal-anda:9595 untuk menjalankannya.
 
@@ -97,9 +101,13 @@ Jika Anda menginstallnya di localhost, Anda bisa menuju ke [http://localhost:959
 
 Berikut ini tampilannya:
 
-![](../media/Screenshot-from-2025-06-22-03-00-46.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-06-22-03-00-46.png?raw=true" alt="tampilan"/>
+</p>
 
-![](../media/Screenshot-from-2025-06-22-03-00-55.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-06-22-03-00-55.png?raw=true" alt="tampilan"/>
+</p>
 
 ## Akhir Kata
 

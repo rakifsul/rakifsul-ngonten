@@ -20,7 +20,9 @@ ssh://ip-address-target
 
 Nanti, akan muncul dialog box untuk memasukkan username dan passwordnya.
 
-![](../media/Screenshot-from-2025-07-07-02-31-11.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-07-07-02-31-11.png?raw=true" alt="tampilan"/>
+</p>
 
 Selanjutnya, Anda bisa memanage file remote Anda di Nautilus itu juga.
 

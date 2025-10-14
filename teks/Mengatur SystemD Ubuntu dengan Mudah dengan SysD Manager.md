@@ -32,7 +32,9 @@ Melakukan hal tersebut di terminal memang sedikit merepotkan.
 
 SysD Manager menyelesaikan masalah tersebut dengan menyediakan GUI untuk keperluan tadi.
 
-![](../media/Screenshot-from-2025-06-19-06-17-51.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-06-19-06-17-51.png?raw=true" alt="tampilan"/>
+</p>
 
 Dengan aplikasi seperti ini, saya tidak perlu repot-repot melakukan ini untuk mengetahui daftar systemd yang ingin saya cari:
 

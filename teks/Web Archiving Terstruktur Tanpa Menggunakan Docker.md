@@ -30,7 +30,9 @@ Karena saya menggunakan Brave yang masih berbasis Chromium, maka saya langsung m
 
 Setelah saya install, di pojok kanan atas Brave jadi seperti gambar ini:
 
-![](../media/Screenshot-from-2025-07-16-21-37-58.png){ width=100% }
+<p align="center">
+    <img src="../media/Screenshot-from-2025-07-16-21-37-58.png?raw=true" alt="tampilan"/>
+</p>
 
 Saya coba jalankan "Start Archiving" dengan mencentang "Start With Autopilot".
 
@@ -40,21 +42,33 @@ Kemudian, saat saya rasa prosesnya telah selesai, saya klik "View Archived Pages
 
 Dan kira-kira seperti inilah yang saya dapatkan (gambar ini hanya sebagai ilustrasi):
 
-![](../media/Screenshot-from-2025-07-16-21-35-32.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-07-16-21-35-32.png?raw=true" alt="tampilan"/>
+</p>
 
 Saya coba klik salah satunya:
 
-![](../media/Screenshot-from-2025-07-16-22-35-32.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-07-16-22-35-32.png?raw=true" alt="tampilan"/>
+</p>
 
 Kemudian saya eksplorasi lebih jauh lagi:
 
-![](../media/Screenshot-from-2025-07-16-21-35-45.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-07-16-21-35-45.png?raw=true" alt="tampilan"/>
+</p>
 
-![](../media/Screenshot-from-2025-07-16-21-36-02.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-07-16-21-36-02.png?raw=true" alt="tampilan"/>
+</p>
 
-![](../media/Screenshot-from-2025-07-16-21-36-19.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-07-16-21-36-19.png?raw=true" alt="tampilan"/>
+</p>
 
-![](../media/Screenshot-from-2025-07-16-21-36-26.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-07-16-21-36-26.png?raw=true" alt="tampilan"/>
+</p>
 
 Dari apa yang saya alami tadi, sepertinya extension ini melakukan penyimpanan DOM dari halaman yang terbuka saat itu, kemudian automatic scrolling tadi mungkin berguna jika halaman tadi menerapkan infinite scroll atau lazy loading.
 

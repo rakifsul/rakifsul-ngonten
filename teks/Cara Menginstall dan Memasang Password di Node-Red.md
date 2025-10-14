@@ -56,13 +56,18 @@ Sekarang, buka portainer Anda yang telah terinstall di Raspberry Pi, login, kemu
 
 Di container list, masuk ke mynodered dan klik Console di sebelah stats (ada di bagian atas) kemudian klik Connect.
 
-![](../media/Screenshot-from-2025-06-09-23-06-32.png)
-
-![](../media/Screenshot-from-2025-06-09-23-07-55.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-06-09-23-06-32.png?raw=true" alt="tampilan"/>
+</p>
+<p align="center">
+    <img src="../media/Screenshot-from-2025-06-09-23-07-55.png?raw=true" alt="tampilan"/>
+</p>
 
 Nanti jendela terminal akan muncul.
 
-![](../media/Screenshot-from-2025-06-09-23-08-53.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-06-09-23-08-53.png?raw=true" alt="tampilan"/>
+</p>
 
 Jalankan:
 

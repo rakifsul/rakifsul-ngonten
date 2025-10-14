@@ -140,7 +140,9 @@ docker compose up -d
 
 Setelah container berjalan, Anda bisa mengoneksikan MariaDB dari AppSmith Anda seperti screenshot ini:
 
-![](../media/Screenshot-from-2025-06-13-11-53-49.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-06-13-11-53-49.png?raw=true" alt="tampilan"/>
+</p>
 
 Adapun phpMyAdmin otomatis membacanya.
 

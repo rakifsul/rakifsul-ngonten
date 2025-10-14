@@ -88,7 +88,9 @@ Untungnya, saya tidak harus memasukkan password yang kompleks karena saya juga m
 
 Dan inilah hasilnya:
 
-![](../media/Screenshot-from-2025-07-09-02-51-13.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-07-09-02-51-13.png?raw=true" alt="tampilan"/>
+</p>
 
 ## Bonus! Membuat Systemd --user agar Open WebUI Jalan Otomatis
 

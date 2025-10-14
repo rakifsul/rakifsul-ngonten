@@ -533,8 +533,14 @@ Jadi. Selamat mencoba...
 
 ## Bonus: Gallery
 
-![](../media/Screenshot-from-2025-07-13-14-22-30-Copy.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-07-13-14-22-30-Copy.png?raw=true" alt="tampilan"/>
+</p>
 
-![](../media/Screenshot-from-2025-07-13-14-22-47-Copy.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-07-13-14-22-47-Copy.png?raw=true" alt="tampilan"/>
+</p>
 
-![](../media/Screenshot-from-2025-07-13-14-22-41-Copy-2.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-07-13-14-22-41-Copy-2.png?raw=true" alt="tampilan"/>
+</p>

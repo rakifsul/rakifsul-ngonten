@@ -188,11 +188,17 @@ Sekarang, coba buka URL ini di browser Anda dan pastikan semua sukses:
 
 Berikut ini screenshotnya:
 
-![](../media/Screenshot-from-2025-07-18-00-19-58.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-07-18-00-19-58.png?raw=true" alt="tampilan"/>
+</p>
 
-![](../media/Screenshot-from-2025-07-18-00-20-09.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-07-18-00-20-09.png?raw=true" alt="tampilan"/>
+</p>
 
-![](../media/Screenshot-from-2025-07-18-01-08-51.png)
+<p align="center">
+    <img src="../media/Screenshot-from-2025-07-18-01-08-51.png?raw=true" alt="tampilan"/>
+</p>
 
 ## Sedikit Penjelasan
 
