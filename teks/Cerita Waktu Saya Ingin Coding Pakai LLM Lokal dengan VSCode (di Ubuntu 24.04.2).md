@@ -76,7 +76,7 @@ Tentunya, saya harus mengaktifkan WiFi interface saya jika saya ingin melakukan 
 ollama pull gemma3:4b
 ```
 
-Jika saya membaca [tutorial cara install Ollama dan Open WebUI ini](https://rakifsul.github.io/menginstall-ollama-dan-open-webui-di-ubuntu-2404-tanpa-docker.html), saya cukup mengerti bagaimana kedua aplikasi tersebut diinstall. 
+Jika saya membaca [tutorial cara install Ollama dan Open WebUI ini](Menginstall%20Ollama%20dan%20Open%20WebUI%20di%20Ubuntu%2024.04%20tanpa%20Docker.md), saya cukup mengerti bagaimana kedua aplikasi tersebut diinstall. 
 
 Tentunya, WiFi interface dari komputer AI saya harus diaktifkan terlebih dahulu sebelum menjalankan tutorial tadi.
 

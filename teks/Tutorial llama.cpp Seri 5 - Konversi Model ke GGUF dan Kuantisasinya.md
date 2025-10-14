@@ -16,7 +16,7 @@ Pada artikel ni, saya akan memberi contoh cara mengonversi file .safetensors dar
 
 Namun, kita harus mempersiapkan software-nya dulu.
 
-Selain itu, saya menganggap Anda telah membaca [seri Tutorial llama.cpp dari awal](https://rakifsul.github.io/tutorial-llamacpp-seri-1-perkenalan-dan-prasyarat.html).
+Selain itu, saya menganggap Anda telah membaca [seri Tutorial llama.cpp dari awal](Tutorial%20llama.cpp%20Seri%201%20-%20Perkenalan%20dan%20Prasyarat.md).
 
 Jika belum, baca dulu...
 

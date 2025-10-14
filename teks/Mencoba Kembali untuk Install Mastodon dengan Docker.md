@@ -1,6 +1,6 @@
 # Mencoba Kembali untuk Install Mastodon dengan Docker
 
-Jika  Anda telah membaca [artikel tentang penginstallan Mastodon sebelumnya](https://rakifsul.github.io/mencoba-menginstall-tiga-social-media-self-hosted-dengan-docker.html), mungkin Anda ingat bahwa saya membatalkan penginstallan Mastodon karena terasa berat.
+Jika  Anda telah membaca [artikel tentang penginstallan Mastodon sebelumnya](Mencoba%20Menginstall%20Tiga%20Social%20Media%20Self%20Hosted%20dengan%20Docker.md), mungkin Anda ingat bahwa saya membatalkan penginstallan Mastodon karena terasa berat.
 
 Ternyata saya keliru. Justru saya salah dalam penginstallannya.
 

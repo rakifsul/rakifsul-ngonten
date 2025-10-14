@@ -149,4 +149,4 @@ llama-cli --help
 
 Karena dalam proses build ini saya menggunakan virtual machine dan vm tersebut tidak memungkinkan untuk menjalankan llama-cli dengan model, maka saya tidak memberikan output-nya.
 
-Jika Anda melakukannya di komputer sungguhan, mungkin Anda bisa coba llama-cli hasil build dengan model tertentu, caranya sudah dibahas di [Tutorial Seri 2 - Installasi dan Setup](https://rakifsul.github.io/tutorial-llamacpp-seri-2-installasi-dan-setup.html).
+Jika Anda melakukannya di komputer sungguhan, mungkin Anda bisa coba llama-cli hasil build dengan model tertentu, caranya sudah dibahas di [Tutorial Seri 2 - Installasi dan Setup](Tutorial%20llama.cpp%20Seri%202%20-%20Installasi%20dan%20Setup.md).

@@ -34,7 +34,7 @@ Juga, Anda perlu sebuah gambar PNG apapun yang beda dengan logo SearXNG.
 
 Pastikan ukuran PNG tadi tidak berbeda jauh dengan logo SearXNG di homepage-nya.
 
-Jika Anda tertarik untuk menggunakan pyenv dalam menginstall Python 3.11.13, saya sudah pernah membahasnya [di artikel ini](https://rakifsul.github.io/menginstall-ollama-dan-open-webui-di-ubuntu-2404-tanpa-docker.html). Cari saja subbab tentang pyenv.
+Jika Anda tertarik untuk menggunakan pyenv dalam menginstall Python 3.11.13, saya sudah pernah membahasnya [di artikel ini](Menginstall%20Ollama%20dan%20Open%20WebUI%20di%20Ubuntu%2024.04%20tanpa%20Docker.md). Cari saja subbab tentang pyenv.
 
 ## Melakukan Clone Repository SearXNG
 
