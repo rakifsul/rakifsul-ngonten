@@ -44,8 +44,6 @@ Sekarang buka url tadi dengan web browser Anda.
     <img src=".media/Screenshot-from-2025-06-09-23-12-32-md.png?raw=true" alt="tampilan"/>
 </p>
 
-![tampilan](.media/Screenshot-from-2025-06-09-23-12-32-md.png)
-
 Jika berhasil, maka Anda siap untuk melakukan searching.
 
 Anda bisa mengganti port-nya dengan nomor lain, tapi pastikan port itu tidak sedang digunakan.
