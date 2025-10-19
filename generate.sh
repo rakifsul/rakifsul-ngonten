@@ -6,7 +6,7 @@ TEKS_DIR="$BASE_DIR/teks"
 README_FILE="$BASE_DIR/README.md"
 
 # Header untuk README
-echo "# Daftar Artikel" > "$README_FILE"
+echo "# Daftar Artikel RAKIFSUL Ngonten" > "$README_FILE"
 echo "" >> "$README_FILE"
 echo "Repositori ini berisi kumpulan artikel dalam format Markdown yang dikategorikan per bulan." >> "$README_FILE"
 echo "" >> "$README_FILE"
@@ -28,6 +28,10 @@ find "$TEKS_DIR" -mindepth 1 -maxdepth 1 -type d | sort -r | while read -r month
     echo "" >> "$README_FILE"
 done
 
-echo "Jika artikel-artikel ini bermanfaat bagi Anda, pertimbangkanlah untuk traktir saya. Link traktir ada di website saya." >> "$README_FILE"
+echo "## Penutup" >> "$README_FILE"
+
+echo "" >> "$README_FILE"
+
+echo "Jika artikel-artikel ini bermanfaat bagi Anda, pertimbangkanlah untuk [traktir saya melalui link ini](https://karyakarsa.com/rakifsul/info)." >> "$README_FILE"
 
 echo "✅ README.md berhasil digenerate di $README_FILE"

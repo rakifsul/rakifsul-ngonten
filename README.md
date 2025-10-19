@@ -1,4 +1,4 @@
-# Daftar Artikel
+# Daftar Artikel RAKIFSUL Ngonten
 
 Repositori ini berisi kumpulan artikel dalam format Markdown yang dikategorikan per bulan.
 
@@ -62,4 +62,6 @@ Repositori ini berisi kumpulan artikel dalam format Markdown yang dikategorikan 
 - [Mencoba Menginstall Tiga Social Media Self Hosted dengan Docker](teks/2025-06/Mencoba-Menginstall-Tiga-Social-Media-Self-Hosted-dengan-Docker.md)
 - [Mengatur SystemD Ubuntu dengan Mudah dengan SysD Manager](teks/2025-06/Mengatur-SystemD-Ubuntu-dengan-Mudah-dengan-SysD-Manager.md)
 
-Jika artikel-artikel ini bermanfaat bagi Anda, pertimbangkanlah untuk traktir saya. Link traktir ada di website saya.
+## Penutup
+
+Jika artikel-artikel ini bermanfaat bagi Anda, pertimbangkanlah untuk [traktir saya melalui link ini](https://karyakarsa.com/rakifsul/info).
