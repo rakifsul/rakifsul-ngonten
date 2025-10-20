@@ -1,6 +1,6 @@
 # Daftar Artikel RAKIFSUL Ngonten
 
-Repositori ini berisi kumpulan artikel dalam format Markdown yang dikategorikan per bulan...
+Repositori ini berisi kumpulan artikel dalam format Markdown yang dikategorikan per bulan.
 
 ## 2025-10
 
