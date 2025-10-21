@@ -64,4 +64,4 @@ Repositori ini berisi kumpulan artikel dalam format Markdown yang dikategorikan 
 
 ## Penutup
 
-Jika artikel-artikel ini bermanfaat bagi Anda, pertimbangkanlah untuk [traktir saya melalui link ini](https://karyakarsa.com/rakifsul/info).
+Jika artikel-artikel ini bermanfaat bagi Anda, pertimbangkanlah untuk [traktir saya melalui link ini](https://karyakarsa.com/rakifsul/info). Traktiran Anda membantu saya untuk tetap melakukan update pada konten ini.
