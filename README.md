@@ -5,6 +5,7 @@ Repositori ini berisi kumpulan artikel dalam format Markdown yang dikategorikan 
 ## 2025-10
 
 - [Aplikasi Self Hosted Terbaik Menurut RAKIFSUL Ngonten yang Layak Anda Coba](teks/2025-10/Aplikasi-Self-Hosted-Terbaik-Menurut-RAKIFSUL-Ngonten-yang-Layak-Anda-Coba.md)
+- [Memperbaiki Setting LM Studio agar Bisa Jalan Lagi](teks/2025-10/Memperbaiki-Setting-LM-Studio-agar-Bisa-Jalan-Lagi.md)
 - [PC A dan PC B Terhubung via Ethernet dan Wifi tapi PC B hanya Bisa Diakses dari PC A Bagaimana Caranya](teks/2025-10/PC-A-dan-PC-B-Terhubung-via-Ethernet-dan-Wifi-tapi-PC-B-hanya-Bisa-Diakses-dari-PC-A-Bagaimana-Caranya.md)
 
 ## 2025-09
