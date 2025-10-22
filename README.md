@@ -62,6 +62,6 @@ Repositori ini berisi kumpulan artikel dalam format Markdown yang dikategorikan 
 - [Mencoba Menginstall Tiga Social Media Self Hosted dengan Docker](teks/2025-06/Mencoba-Menginstall-Tiga-Social-Media-Self-Hosted-dengan-Docker.md)
 - [Mengatur SystemD Ubuntu dengan Mudah dengan SysD Manager](teks/2025-06/Mengatur-SystemD-Ubuntu-dengan-Mudah-dengan-SysD-Manager.md)
 
-## Penutup
+## Link untuk Memberi Saya Uang
 
-Jika artikel-artikel ini bermanfaat bagi Anda, pertimbangkanlah untuk [traktir saya melalui link ini](https://karyakarsa.com/rakifsul/info). Traktiran Anda membantu saya untuk tetap melakukan update pada konten ini.
+Ini adalah [Link untuk Memberi Saya Uang](https://karyakarsa.com/rakifsul/info).

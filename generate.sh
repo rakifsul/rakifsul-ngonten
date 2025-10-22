@@ -28,10 +28,10 @@ find "$TEKS_DIR" -mindepth 1 -maxdepth 1 -type d | sort -r | while read -r month
     echo "" >> "$README_FILE"
 done
 
-echo "## Penutup" >> "$README_FILE"
+echo "## Link untuk Memberi Saya Uang" >> "$README_FILE"
 
 echo "" >> "$README_FILE"
 
-echo "Jika artikel-artikel ini bermanfaat bagi Anda, pertimbangkanlah untuk [traktir saya melalui link ini](https://karyakarsa.com/rakifsul/info). Traktiran Anda membantu saya untuk tetap melakukan update pada konten ini." >> "$README_FILE"
+echo "Ini adalah [Link untuk Memberi Saya Uang](https://karyakarsa.com/rakifsul/info)." >> "$README_FILE"
 
 echo "✅ README.md berhasil digenerate di $README_FILE"
