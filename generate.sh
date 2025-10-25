@@ -8,6 +8,8 @@ README_FILE="$BASE_DIR/README.md"
 # Header untuk README
 echo "# Daftar Artikel RAKIFSUL Ngonten" > "$README_FILE"
 echo "" >> "$README_FILE"
+echo "I write the [English version at substack](https://rakifsul.substack.com)" >> "$README_FILE"
+echo "" >> "$README_FILE"
 echo "Repositori ini berisi kumpulan artikel dalam format Markdown yang dikategorikan per bulan." >> "$README_FILE"
 echo "" >> "$README_FILE"
 

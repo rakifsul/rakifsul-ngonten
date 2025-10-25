@@ -1,5 +1,7 @@
 # Daftar Artikel RAKIFSUL Ngonten
 
+I write the [English version at substack](https://rakifsul.substack.com)
+
 Repositori ini berisi kumpulan artikel dalam format Markdown yang dikategorikan per bulan.
 
 ## 2025-10
