@@ -6,11 +6,11 @@ TEKS_DIR="$BASE_DIR/teks"
 README_FILE="$BASE_DIR/README.md"
 
 # Header untuk README
-echo "# Daftar Artikel RAKIFSUL Ngonten" > "$README_FILE"
+echo "# List of RAKIFSUL Ngonten Blog Posts" > "$README_FILE"
+echo "" >> "$README_FILE"
+echo "This repository contains my Indonesian version of my blog posts." >> "$README_FILE"
 echo "" >> "$README_FILE"
 echo "I write the [English version at substack](https://rakifsul.substack.com)" >> "$README_FILE"
-echo "" >> "$README_FILE"
-echo "Repositori ini berisi kumpulan artikel dalam format Markdown yang dikategorikan per bulan." >> "$README_FILE"
 echo "" >> "$README_FILE"
 
 # Loop untuk setiap folder tahun-bulan (urut dari terbaru ke terlama)
@@ -30,10 +30,10 @@ find "$TEKS_DIR" -mindepth 1 -maxdepth 1 -type d | sort -r | while read -r month
     echo "" >> "$README_FILE"
 done
 
-echo "## Link untuk Memberi Saya Uang" >> "$README_FILE"
+echo "## More from RAKIFSUL" >> "$README_FILE"
 
 echo "" >> "$README_FILE"
 
-echo "Ini adalah [Link untuk Memberi Saya Uang](https://trakteer.id/rakifsul)." >> "$README_FILE"
+echo "- [www.rakifsul.my.id](https://www.rakifsul.my.id)" >> "$README_FILE"
 
 echo "✅ README.md berhasil digenerate di $README_FILE"

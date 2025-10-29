@@ -1,8 +1,8 @@
-# Daftar Artikel RAKIFSUL Ngonten
+# List of RAKIFSUL Ngonten Blog Posts
+
+This repository contains my Indonesian version of my blog posts.
 
 I write the [English version at substack](https://rakifsul.substack.com)
-
-Repositori ini berisi kumpulan artikel dalam format Markdown yang dikategorikan per bulan.
 
 ## 2025-10
 
@@ -66,6 +66,6 @@ Repositori ini berisi kumpulan artikel dalam format Markdown yang dikategorikan 
 - [Mencoba Menginstall Tiga Social Media Self Hosted dengan Docker](teks/2025-06/Mencoba-Menginstall-Tiga-Social-Media-Self-Hosted-dengan-Docker.md)
 - [Mengatur SystemD Ubuntu dengan Mudah dengan SysD Manager](teks/2025-06/Mengatur-SystemD-Ubuntu-dengan-Mudah-dengan-SysD-Manager.md)
 
-## Link untuk Memberi Saya Uang
+## More from RAKIFSUL
 
-Ini adalah [Link untuk Memberi Saya Uang](https://trakteer.id/rakifsul).
+- [www.rakifsul.my.id](https://www.rakifsul.my.id)
