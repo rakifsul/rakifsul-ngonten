@@ -44,8 +44,8 @@ OK. Jadi ringkasan dari tulisan tadi adalah seperti ini.
         - wget
         - Kemudian konversi dengan zimwriterfs => jadi zim siap pakai
     - Windows Saja:
-        - Cyotek WebCopy
-        - Kemudian konversi dengan zimwriterfs => jadi zim siap pakai
+        - Cyotek WebCopy (bisa di native Windows)
+        - Kemudian konversi dengan zimwriterfs (di Linux atau WSL) => jadi zim siap pakai
     - Docker (Linux, WSL, VM):
         - zimit => hasilnya file zim siap pakai
 
@@ -137,7 +137,7 @@ Tool terpenting dari zim-tools adalah zimwriterfs yang gunanya untuk mengonversi
 
 zim-tools versi binary bisa Anda dapatkan [di sini](https://download.openzim.org/release/zim-tools/)
 
-Ambil yang versi Linux. Jika Anda tidak pakai Linux, maka cobalah pakai Linux.
+Ambil yang versi Linux. Jika Anda tidak pakai Linux, maka cobalah pakai Linux. Setidaknya, gunakan WSL jika Anda harus menggunakan Windows.
 
 Jika Anda ingin membuild-nya dari source code silakan Anda baca sendiri [di repository-nya](https://github.com/openzim/zim-tools), karena tidak saya bahas di sini mengingat caranya rumit.
 
