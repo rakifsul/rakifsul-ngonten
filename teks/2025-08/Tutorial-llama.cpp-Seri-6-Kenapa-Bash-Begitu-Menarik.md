@@ -73,13 +73,57 @@ crontab -e
 # jangan lupa pakai & di akhir command.
 ```
 
-## Membuat CLI Cerdas yang bisa Memahami Command dalam Bahasa Manusia
-
-[Kunjungi tutorialnya di sini](https://karyakarsa.com/rakifsul/ngoding-aplikasi-cli-cerdas-tanpa-ribet-biarkan-llm-menulis-kode-aplikasi-llm).
-
 ## Mengetahui Command Arguments yang Paling Optimal pada perintah yang ada pada llama.cpp
 
-[Kunjungi script-nya di sini](https://karyakarsa.com/rakifsul/rf-llm-optimum-finder).
+Caranya dengan menggunakan script bash ini:
+
+```
+#!/bin/bash
+
+# Cari setting optimal untuk llama.cpp dengan llama-bench
+
+# argumen pertama dari perintah ini adalah model yang akan diuji.
+MODEL=$1
+
+BEST_TOKS=0
+BEST_SETTINGS=""
+
+# Daftar threads dan batch yang mau diuji.
+# bisa ditambahkan dan dikurangi angka jumlah threads dan batch seperlunya.
+# sebagai contoh:
+# THREADS_LIST="2 4 6 8"
+# BATCH_LIST="16 64 512"
+
+THREADS_LIST="2 8"
+BATCH_LIST="16 512"
+
+echo "Benchmarking model: $MODEL"
+echo
+
+for THREADS in $THREADS_LIST; do
+  for BATCH in $BATCH_LIST; do
+    echo "Testing: threads=$THREADS batch=$BATCH"
+    RESULT=$(llama-bench -m $MODEL -t $THREADS -b $BATCH -n 128 -p 512 -o json)
+    TOKS=$(echo "$RESULT" | jq '.[] | select(.n_gen > 0) | .avg_ts')
+
+    if [ -n "$TOKS" ]; then
+      echo "tg throughput: $TOKS tok/s"
+      COMPARE=$(echo "$TOKS > $BEST_TOKS" | bc -l)
+      if [ "$COMPARE" -eq 1 ]; then
+        BEST_TOKS=$TOKS
+        BEST_SETTINGS="threads=$THREADS batch=$BATCH"
+      fi
+    else
+      echo "Tidak ada hasil (mungkin timeout terlalu pendek)"
+    fi
+  done
+done
+
+echo
+echo "====================================="
+echo "Setting optimal: $BEST_SETTINGS dengan $BEST_TOKS tok/s"
+echo "====================================="
+```
 
 ## Akhir Kata
 
