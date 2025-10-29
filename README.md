@@ -2,7 +2,7 @@
 
 This repository contains my Indonesian version of my blog posts.
 
-I write the [English version at substack](https://rakifsul.substack.com)
+I write the [English version at Substack](https://rakifsul.substack.com).
 
 ## 2025-10
 
