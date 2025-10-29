@@ -65,7 +65,7 @@ Barusan saya sebutkan beberapa tools, tapi saya belum berikan link-nya atau cara
 
 ### Httrack
 
-Httrack bisa Anda dapatkan di sini jika Anda menggunakan Windows.
+Httrack bisa Anda dapatkan [di sini](https://www.httrack.com/page/2/en/index.html) jika Anda menggunakan Windows.
 
 Jika Anda menggunakan Ubuntu, Anda bisa jalankan ini:
 
@@ -179,19 +179,19 @@ example subject:"warcarchives"
 
 Di Kiwix Library, Anda tinggal masukkan example.com di input dari Kiwix Library. Pastikan bahasa di-set ke "All Languages" dan Kategori di-set ke "All Categories"
 
-### Apakah file arsip bisa ditemukan?
+### A. Apakah file arsip bisa ditemukan?
 
-Jika Anda bisa menemukannya di Archive.org, maka download file warc.gz terbesarnya. Selanjutnya, lakukan konversi dari warc ke zim.
+Jika Anda bisa menemukannya di Archive.org, maka download file warc.gz terbesarnya. Selanjutnya, lakukan konversi dari warc ke zim **[C]**.
 
-Jika Anda bisa menemukannya di Kiwix Library, maka downlaod file .zim nya. Selanjutnya, jadikan itu input untuk Kiwix atau kiwix-serve.
+Jika Anda bisa menemukannya di Kiwix Library, maka downlaod file .zim nya. Selanjutnya, jadikan itu input untuk Kiwix atau kiwix-serve **[G]**.
 
-### Apakah file arsip tersebut cukup baru?
+### B. Apakah file arsip tersebut cukup baru?
 
-Jika menurut Anda cukup, maka lakukan langkah tadi saja.
+Jika menurut Anda cukup, maka lakukan langkah tadi saja **[A]**.
 
-Namun, jika Anda merasa belum cukup, maka lanjut ke langkah download website secara manual.
+Namun, jika Anda merasa belum cukup, maka lanjut ke langkah download website secara manual **[D]** **[E]**.
 
-### Cara Konversi dari warc ke zim
+### C. Cara Konversi dari warc ke zim
 
 Pada dasarnya, konversi bisa dilakukan dengan aplikasi warc2zim yang berasal dari container zimit.
 
@@ -220,7 +220,9 @@ Maka, jika tadi Anda bisa mendapatkan example.com.warc.gz dan mengekstraknya jad
 warc2zim /output/example.com.warc --output /output --name example.com --title example.com --description "deskripsi example.com" --long-description "deskripsi panjang example.com"
 ```
 
-### Cara Mendownload Website secara Manual dengan zimit
+Setelah file .zim sudah jadi, masukkan sebagai input dari Kiwix atau Kiwix Serve **[G]**.
+
+### D. Cara Mendownload Website secara Manual dengan zimit
 
 Perintah yang biasa saya gunakan ada di bawah ini jika saya sudah membuat aliasnya:
 
@@ -232,9 +234,9 @@ zimit --keep --seeds https://example.com --name example.com.zim --title example.
 
 zimit mendownload website sekaligus mengubahnya jadi file .zim jika berhasil. 
 
-Maka, setelah zimit selesai, Anda tinggal masukkan file .zim tadi ke folder zim dari kiwix-serve atau membukanya dengan Kiwix Desktop atau Kiwix Android yang berbasis GUI.
+Maka, setelah zimit selesai, Anda tinggal masukkan file .zim tadi ke folder zim dari kiwix-serve atau membukanya dengan Kiwix Desktop atau Kiwix Android yang berbasis GUI **[G]**.
 
-### Cara Mendownload Website secara Manual dengan wget
+### E. Cara Mendownload Website secara Manual dengan wget
 
 Perintah yang biasa saya gunakan ada di bawah ini:
 
@@ -252,9 +254,9 @@ Jika karena suatu hal download dengan wget macet, Anda tinggal tekan ctrl+c, lal
 wget -c -r -p -k -e robots=off --html-extension --convert-links --restrict-file-names=windows -U Mozilla -H --span-hosts --domains=example.com,example.org --reject-regex 'ignore1*|ignore2*' https://example.com
 ```
 
-Setelah selesai, Anda perlu mengubahnya ke file .zim dengan perintah zimwriterfs yang merupakan bagian dari zim-tools.
+Setelah selesai, Anda perlu mengubahnya ke file .zim dengan perintah zimwriterfs yang merupakan bagian dari zim-tools **[F]**.
 
-### Cara Mengonversi Arsip Web Mentah Menjadi File .zim dengan zimwriterfs
+### F. Cara Mengonversi Arsip Web Mentah Menjadi File .zim dengan zimwriterfs
 
 Di sini, apa yang perlu SANGAT Anda perhatikan adalah struktur folder dan di folder mana Anda menjalankan perintah zimwriterfs.
 
@@ -319,6 +321,12 @@ Jika Anda tidak menemukan index.html di dalamnya, maka Anda bisa membuat sendiri
 - folder-posisi-anda/example.com/example.com
 
 yang menurut Anda cocok untuk homepage dari file .zim.
+
+Setelah file .zim sudah jadi, masukkan sebagai input dari Kiwix atau Kiwix Serve **[G]**.
+
+## G. Membaca File .zim dengan Kiwix
+
+Jika Anda ingin menggunakan Kiwix Serve untuk membaca file .zim, saya sudah buat tutorialnya [di sini](../2025-06/Aplikasi-Wikipedia-Offline-dan-zim-Viewer.md).
 
 ## Penutup
 
