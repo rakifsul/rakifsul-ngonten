@@ -34,6 +34,6 @@ echo "## Link untuk Memberi Saya Uang" >> "$README_FILE"
 
 echo "" >> "$README_FILE"
 
-echo "Ini adalah [Link untuk Memberi Saya Uang](https://karyakarsa.com/rakifsul/info)." >> "$README_FILE"
+echo "Ini adalah [Link untuk Memberi Saya Uang](https://trakteer.id/rakifsul)." >> "$README_FILE"
 
 echo "✅ README.md berhasil digenerate di $README_FILE"

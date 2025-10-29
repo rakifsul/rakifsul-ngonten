@@ -68,4 +68,4 @@ Repositori ini berisi kumpulan artikel dalam format Markdown yang dikategorikan 
 
 ## Link untuk Memberi Saya Uang
 
-Ini adalah [Link untuk Memberi Saya Uang](https://karyakarsa.com/rakifsul/info).
+Ini adalah [Link untuk Memberi Saya Uang](https://trakteer.id/rakifsul).
