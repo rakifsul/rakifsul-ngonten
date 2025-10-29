@@ -131,29 +131,6 @@ Aplikasi ini adalah untuk menampilkan isi dari zim.
 
 Download dan pilih-pilih [di sini](https://kiwix.org/en/applications/).
 
-Jika Anda menggunakan kiwix-serve, Anda bisa menggunakan Docker dengan docker-compose.yml ini:
-
-```
-services:
-  kiwix-serve:
-    container_name: kiwix-serve
-    restart: unless-stopped
-    ports:
-      - 10006:8080
-    image: ghcr.io/kiwix/kiwix-serve:3.7.0
-    # uncomment next 4 lines to use it with local zim file in /tmp/zim
-    volumes:
-      - /home/usernameanda/Documents/Kiwix-Serve:/data
-    command:
-      - '*.zim'
-    # uncomment next 2 lines to use it with remote zim file
-    environment:
-      - PUID=1000
-      - PGID=1000
-```
-
-Pastikan semua file .zim dimasukkan ke "/home/usernameanda/Documents/Kiwix-Serve" kecuali Anda ubah volumes di docker compose tadi.
-
 ### zim-tools
 
 Tool terpenting dari zim-tools adalah zimwriterfs yang gunanya untuk mengonversi arsip web mentah menjadi file zim.
@@ -183,7 +160,7 @@ Di Kiwix Library, Anda tinggal masukkan example.com di input dari Kiwix Library.
 
 Jika Anda bisa menemukannya di Archive.org, maka download file warc.gz terbesarnya. Selanjutnya, lakukan konversi dari warc ke zim **[C]**.
 
-Jika Anda bisa menemukannya di Kiwix Library, maka downlaod file .zim nya. Selanjutnya, jadikan itu input untuk Kiwix atau kiwix-serve **[G]**.
+Jika Anda bisa menemukannya di Kiwix Library, maka download file .zim nya. Selanjutnya, jadikan itu input untuk Kiwix atau kiwix-serve **[G]**.
 
 ### B. Apakah file arsip tersebut cukup baru?
 
@@ -324,9 +301,30 @@ yang menurut Anda cocok untuk homepage dari file .zim.
 
 Setelah file .zim sudah jadi, masukkan sebagai input dari Kiwix atau Kiwix Serve **[G]**.
 
-## G. Membaca File .zim dengan Kiwix
+## G. Membaca File .zim dengan Kiwix Serve
 
-Jika Anda ingin menggunakan Kiwix Serve untuk membaca file .zim, saya sudah buat tutorialnya [di sini](../2025-06/Aplikasi-Wikipedia-Offline-dan-zim-Viewer.md).
+Jika Anda menggunakan kiwix-serve, Anda bisa menggunakan Docker dengan docker-compose.yml ini:
+
+```
+services:
+  kiwix-serve:
+    container_name: kiwix-serve
+    restart: unless-stopped
+    ports:
+      - 10006:8080
+    image: ghcr.io/kiwix/kiwix-serve:3.7.0
+    # uncomment next 4 lines to use it with local zim file in /tmp/zim
+    volumes:
+      - /home/usernameanda/Documents/Kiwix-Serve:/data
+    command:
+      - '*.zim'
+    # uncomment next 2 lines to use it with remote zim file
+    environment:
+      - PUID=1000
+      - PGID=1000
+```
+
+Pastikan semua file .zim dimasukkan ke "/home/usernameanda/Documents/Kiwix-Serve" kecuali Anda ubah volumes di docker compose tadi.
 
 ## Penutup
 
