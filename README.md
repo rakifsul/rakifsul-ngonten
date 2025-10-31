@@ -4,6 +4,10 @@ This repository contains my Indonesian version of my blog posts.
 
 I write the [English version at Substack](https://rakifsul.substack.com).
 
+## 2025-11
+
+- [Membuat CLI Cerdas yang Paham Command Bahasa Manusia](teks/2025-11/Membuat-CLI-Cerdas-yang-Paham-Command-Bahasa-Manusia.md)
+
 ## 2025-10
 
 - [Aplikasi Self Hosted Terbaik Menurut RAKIFSUL Ngonten yang Layak Anda Coba](teks/2025-10/Aplikasi-Self-Hosted-Terbaik-Menurut-RAKIFSUL-Ngonten-yang-Layak-Anda-Coba.md)
