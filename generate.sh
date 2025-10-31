@@ -30,7 +30,7 @@ find "$TEKS_DIR" -mindepth 1 -maxdepth 1 -type d | sort -r | while read -r month
     echo "" >> "$README_FILE"
 done
 
-echo "## More from RAKIFSUL" >> "$README_FILE"
+echo "## Get More Precious Links" >> "$README_FILE"
 
 echo "" >> "$README_FILE"
 

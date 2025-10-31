@@ -67,6 +67,6 @@ I write the [English version at Substack](https://rakifsul.substack.com).
 - [Mencoba Menginstall Tiga Social Media Self Hosted dengan Docker](teks/2025-06/Mencoba-Menginstall-Tiga-Social-Media-Self-Hosted-dengan-Docker.md)
 - [Mengatur SystemD Ubuntu dengan Mudah dengan SysD Manager](teks/2025-06/Mengatur-SystemD-Ubuntu-dengan-Mudah-dengan-SysD-Manager.md)
 
-## More from RAKIFSUL
+## Get More Precious Links
 
 - [www.rakifsul.my.id](https://www.rakifsul.my.id)
