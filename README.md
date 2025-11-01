@@ -7,6 +7,7 @@ I write the [English version at Substack](https://rakifsul.substack.com).
 ## 2025-11
 
 - [Membuat CLI Cerdas yang Paham Command Bahasa Manusia](teks/2025-11/Membuat-CLI-Cerdas-yang-Paham-Command-Bahasa-Manusia.md)
+- [Script Nautilus Open Source untuk Berbagai Keperluan](teks/2025-11/Script-Nautilus-Open-Source-untuk-Berbagai-Keperluan.md)
 
 ## 2025-10
 
