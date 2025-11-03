@@ -38,7 +38,7 @@ bash -c "$(curl -fsSL https://cfgnunes.github.io/nautilus-scripts/install.sh)"
  
  Jika Anda ingin lihat tampilannya setelah diinstall, lihat gambar di bawah ini:
  
- <p align="center">
+<p align="center">
     <img src="../../media/Screenshot from 2025-11-01 21-13-23.png?raw=true" alt="tampilan"/>
 </p>
  
