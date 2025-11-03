@@ -17,7 +17,10 @@ Untuk menerapkan ide saya tadi, Anda membutuhkan:
 - Bookmark di web browser tadi.
 
 ```
-Catatan: Jika Anda belum terbayang tentang file MHTML, itu adalah format file tunggal yang bisa menyimpan tag HTML, CSS, dan JavaScript-nya sekaligus. Jadi, file HTML tidak terpisah dengan CSS dan JavaScript-nya. 
+Catatan: Jika Anda belum terbayang tentang file MHTML, 
+itu adalah format file tunggal yang bisa menyimpan tag HTML, 
+CSS, dan JavaScript-nya sekaligus. 
+Jadi, file HTML tidak terpisah dengan CSS dan JavaScript-nya. 
 ```
 
 ## Bagaimana Caranya: Men-Save sebagai MHTML
