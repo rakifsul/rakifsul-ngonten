@@ -1,8 +1,6 @@
 # List of RAKIFSUL Ngonten Blog Posts
 
-This repository contains my Indonesian version of my blog posts.
-
-I write the [English version at Substack](https://rakifsul.substack.com).
+This repository contains my blog posts.
 
 ## 2025-11
 

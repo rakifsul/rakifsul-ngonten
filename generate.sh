@@ -8,9 +8,7 @@ README_FILE="$BASE_DIR/README.md"
 # Header untuk README
 echo "# List of RAKIFSUL Ngonten Blog Posts" > "$README_FILE"
 echo "" >> "$README_FILE"
-echo "This repository contains my Indonesian version of my blog posts." >> "$README_FILE"
-echo "" >> "$README_FILE"
-echo "I write the [English version at Substack](https://rakifsul.substack.com)." >> "$README_FILE"
+echo "This repository contains my blog posts." >> "$README_FILE"
 echo "" >> "$README_FILE"
 
 # Loop untuk setiap folder tahun-bulan (urut dari terbaru ke terlama)
