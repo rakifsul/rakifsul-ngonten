@@ -4,6 +4,7 @@ This repository contains my blog posts.
 
 ## 2025-11
 
+- [Cara Mengamankan Docker Container dengan UFW](teks/2025-11/Cara-Mengamankan-Docker-Container-dengan-UFW.md)
 - [Cara Skip Update NVidia Saat Upgrade Ubuntu](teks/2025-11/Cara-Skip-Update-NVidia-Saat-Upgrade-Ubuntu.md)
 - [Manajemen Halaman Web Ter Save hanya dengan Browser dan Bookmark](teks/2025-11/Manajemen-Halaman-Web-Ter-Save-hanya-dengan-Browser-dan-Bookmark.md)
 - [Membuat CLI Cerdas yang Paham Command Bahasa Manusia](teks/2025-11/Membuat-CLI-Cerdas-yang-Paham-Command-Bahasa-Manusia.md)
