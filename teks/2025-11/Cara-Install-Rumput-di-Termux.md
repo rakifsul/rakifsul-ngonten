@@ -2,7 +2,7 @@
 
 Tadinya, saya ingin mencoba lagi untuk menginstall code-server di Termux, namun kelihatannya kali ini saya mendapatkan sedikit kesulitan.
 
-Karena saya kira ini akan memakan waktu cukup lama, maka saya putuskan untuk menginstall aplikasi saya yang bernama Rumput terlebih dahulu.
+Karena saya kira ini akan memakan waktu cukup lama, maka saya putuskan untuk menginstall aplikasi saya yang bernama [Rumput](https://github.com/rakifsul/rumput) terlebih dahulu.
 
 Rumput adalah aplikasi web dashboard buatan saya yang fiturnya tidak hanya membuat daftar link atau bookmarks, namun juga catatan terenkripsi, trigger JavaScript, dan kemungkinan akan bertambah lagi.
 
