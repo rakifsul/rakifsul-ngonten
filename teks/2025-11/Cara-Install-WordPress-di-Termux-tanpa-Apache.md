@@ -155,6 +155,4 @@ Lanjutkan langkahnya hingga selesai.
 
 Jika ada kendala dalam mengikuti tutorial ini, mungkin Anda perlu  menghentikan aplikasi Termux, kemudian menjalankannya lagi.
 
-Selanjutnya, apa yang akan Anda lakukan dengan WordPress di Termux Anda adalah keputusan Anda sendiri.
-
 Sekian...
