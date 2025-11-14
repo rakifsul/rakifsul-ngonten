@@ -5,6 +5,7 @@ This repository contains my blog posts.
 ## 2025-11
 
 - [Berbagai Cara Menempatkan 3 PC di Meja Sempit](teks/2025-11/Berbagai-Cara-Menempatkan-3-PC-di-Meja-Sempit.md)
+- [Cara Install Rumput di Termux](teks/2025-11/Cara-Install-Rumput-di-Termux.md)
 - [Cara Membuat Wallpaper PC Resolusi Tinggi dengan YouTube](teks/2025-11/Cara-Membuat-Wallpaper-PC-Resolusi-Tinggi-dengan-YouTube.md)
 - [Cara Mengamankan Docker Container dengan UFW](teks/2025-11/Cara-Mengamankan-Docker-Container-dengan-UFW.md)
 - [Cara Saya Menginstall Termux di Android](teks/2025-11/Cara-Saya-Menginstall-Termux-di-Android.md)
