@@ -22,7 +22,7 @@ Dengan menggunakan PC A saja, proses penggunaan modelnya akan sedikit lama.
 
 Karena PC B merupakan mantan PC gaming dengan GPU yang lumayan, maka proses tadi menjadi lebih cepat.
 
-Maka, saat saya menjalankan program yang menggunakan LLM, seperti [code generator yang dibahas di artikel ini](../1-Linux/Membuat-Bahasa-Pemrograman-Web-yang-Menggunakan-Bahasa-Manusia-dengan-LLM.md), dengan model yang lebih berat seperti gemma3:12b, mungkin saya bisa menjalankannya lebih cepat dengan setup ini.
+Maka, saat saya menjalankan program yang menggunakan LLM, seperti [code generator yang dibahas di artikel ini](../1-Ubuntu-Flavors/Membuat-Bahasa-Pemrograman-Web-yang-Menggunakan-Bahasa-Manusia-dengan-LLM.md), dengan model yang lebih berat seperti gemma3:12b, mungkin saya bisa menjalankannya lebih cepat dengan setup ini.
 
 Selain itu, jika kita berada dalam jaringan yang tidak terlalu private, misalnya di kantor atau restoran, dan kita memiliki komputer yang seperti PC A dan PC B tadi, maka setup semacam ini cukup baik untuk mencegah user yang tidak diinginkan mengakses PC B.
 
