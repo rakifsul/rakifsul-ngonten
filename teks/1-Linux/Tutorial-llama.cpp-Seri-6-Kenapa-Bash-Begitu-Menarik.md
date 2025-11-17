@@ -50,7 +50,7 @@ Beberapa model dipublikasi tanpa format .gguf.
 
 Jika model tersebut Anda butuhkan, maka Anda bisa menggunakan tool dari llama.cpp yang berbentuk script python.
 
-Untuk menjalankannya? Dengan bash. Contohnya [ada di artikel ini](../2025-08/Tutorial-llama.cpp-Seri-5-Konversi-Model-ke-GGUF-dan-Kuantisasinya.md).
+Untuk menjalankannya? Dengan bash. Contohnya [ada di artikel ini](./Tutorial-llama.cpp-Seri-5-Konversi-Model-ke-GGUF-dan-Kuantisasinya.md).
 
 ## Menjalankan llama-server saat Komputer Booting
 

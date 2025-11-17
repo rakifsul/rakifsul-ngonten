@@ -1,6 +1,6 @@
 # Tutorial Singkat Bot Mastodon dengan Local LLM gemma3:1b dan Ollama
 
-Sudah sekitar beberapa hari sejak saya posting artikel [cara install Ollama](../2025-07/Menginstall-Ollama-dan-Open-WebUI-di-Ubuntu-24.04-tanpa-Docker.md) dan juga [cara install Mastodon](../2025-07/Mencoba-Kembali-untuk-Install-Mastodon-dengan-Docker.md).
+Sudah sekitar beberapa hari sejak saya posting artikel [cara install Ollama](./Menginstall-Ollama-dan-Open-WebUI-di-Ubuntu-24.04-tanpa-Docker.md) dan juga [cara install Mastodon](./Mencoba-Kembali-untuk-Install-Mastodon-dengan-Docker.md).
 
 Saya harap durasi tersebut cukup lama untuk melakukan trial error dalam menginstall kedua aplikasi tadi.
 
@@ -45,7 +45,7 @@ Pertama, pastikan Ollama Anda telah mem-pull gemma3:1b:
 ollama pull gemma3:1b
 ```
 
-Jika Anda telah mengikuti [artikel ini](../2025-07/Menginstall-Ollama-dan-Open-WebUI-di-Ubuntu-24.04-tanpa-Docker.md), seharusnya sudah.
+Jika Anda telah mengikuti [artikel ini](./Menginstall-Ollama-dan-Open-WebUI-di-Ubuntu-24.04-tanpa-Docker.md), seharusnya sudah.
 
 Kedua, pastikan Anda telah membuat aplikasi di Mastodon dan mendapatkan access token-nya.
 

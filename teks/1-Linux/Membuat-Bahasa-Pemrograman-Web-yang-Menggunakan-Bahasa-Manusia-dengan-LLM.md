@@ -2,7 +2,7 @@
 
 Karena saya mulai suka dengan Ollama dan LLM-nya, seperti gemma3:1b, maka malam tadi saya sengaja meluangkan waktu untuk mengerjakan sebuah bahasa pemrograman yang menggunakan bahasa manusia.
 
-Untuk setup awal, Anda bisa baca [postingan ini](../2025-07/Menginstall-Ollama-dan-Open-WebUI-di-Ubuntu-24.04-tanpa-Docker.md).
+Untuk setup awal, Anda bisa baca [postingan ini](./Menginstall-Ollama-dan-Open-WebUI-di-Ubuntu-24.04-tanpa-Docker.md).
 
 Pada prinsipnya, bahasa pemrograman tadi sebenarnya adalah prompt, namun dengan system prompt yang setengah gagal (karena gagal menghapus markdown snippet), saya berhasil menampilkan button berwarna salmon di outputnya. 
 

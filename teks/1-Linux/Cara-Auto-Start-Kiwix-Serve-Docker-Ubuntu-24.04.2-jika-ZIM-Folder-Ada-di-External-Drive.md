@@ -2,7 +2,7 @@
 
 **Disclaimer: Hanya Teruji di Ubuntu 24.04.2 Desktop.**
 
-Dulu, saya pernah bahas cara install Kiwix-Serve dengan Docker Run [di artikel ini](../2025-06/Aplikasi-Wikipedia-Offline-dan-zim-Viewer.md).
+Dulu, saya pernah bahas cara install Kiwix-Serve dengan Docker Run [di artikel ini](./Aplikasi-Wikipedia-Offline-dan-zim-Viewer.md).
 
 Contoh yang saya berikan di artikel tersebut ternyata hanya bisa diandalkan jika folder yang berisi ZIM file berada di storage internal. Misalnya SSD internal Anda.
 

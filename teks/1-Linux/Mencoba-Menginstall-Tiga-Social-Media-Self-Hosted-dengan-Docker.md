@@ -6,7 +6,7 @@ Karena penasaran untuk mencoba beberapa social media self hosted, saya memulainy
 
 Saya melakukan kesalahan di saat menginstallnya. Jika Anda ingin lihat cara install Mastodon yang benar, kunjungi artikel ini:
 
-[Mencoba Kembali untuk Install Mastodon dengan Docker](../2025-07/Mencoba-Kembali-untuk-Install-Mastodon-dengan-Docker.md)
+[Mencoba Kembali untuk Install Mastodon dengan Docker](./Mencoba-Kembali-untuk-Install-Mastodon-dengan-Docker.md)
 
 ## Mencoba Menginstall Misskey
 

@@ -2,7 +2,7 @@
 
 Dari kemarin saya agak bosan dan saat itu saya belum tahu penyebabnya.
 
-Itulah sebabnya saya kemarin membahas sebuah chrome extension [di artikel ini](../2025-07/Web-Archiving-Terstruktur-Tanpa-Menggunakan-Docker.md).
+Itulah sebabnya saya kemarin membahas sebuah chrome extension [di artikel ini](./Web-Archiving-Terstruktur-Tanpa-Menggunakan-Docker.md).
 
 Namun, setelah direnungi...
 

@@ -1,6 +1,6 @@
 # Cara Membuat PHP Build Kemarin Menjadi Portable
 
-Masih ingat dengan artikel [cara build PHP yang kemarin](../2025-06/Cara-Mem-Build-Beberapa-Versi-PHP-di-Ubuntu.md)?
+Masih ingat dengan artikel [cara build PHP yang kemarin](./Cara-Mem-Build-Beberapa-Versi-PHP-di-Ubuntu.md)?
 
 Di artikel tersebut saya bilang "... Sepertinya Portable". Kalimat tersebut ada di Judulnya.
 
