@@ -12,7 +12,7 @@ echo "This repository contains my blog posts. If you want to read the English ve
 echo "" >> "$README_FILE"
 
 # Loop untuk terbaru
-echo "## 🆕 Latest 5 Posts" >> "$README_FILE"
+echo "## Latest 5 Posts" >> "$README_FILE"
 echo "" >> "$README_FILE"
 
 # Ambil semua file .md lalu cek creation date berdasarkan git commit pertama

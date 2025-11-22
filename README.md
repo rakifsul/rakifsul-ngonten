@@ -2,7 +2,7 @@
 
 This repository contains my blog posts. If you want to read the English version, right click on your browser, then click "Translate to English". 
 
-## 🆕 Latest 5 Posts
+## Latest 5 Posts
 
 - [Cara Install WordPress di Termux tanpa Apache](teks/3-Termux/Cara-Install-WordPress-di-Termux-tanpa-Apache.md)
 - [Cara Install Rumput di Termux](teks/3-Termux/Cara-Install-Rumput-di-Termux.md)
