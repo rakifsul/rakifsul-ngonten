@@ -2,6 +2,14 @@
 
 This repository contains my blog posts. If you want to read the English version, right click on your browser, then click "Translate to English". 
 
+## 🆕 Latest 5 Posts
+
+- [Cara Install WordPress di Termux tanpa Apache](teks/3-Termux/Cara-Install-WordPress-di-Termux-tanpa-Apache.md)
+- [Cara Install Rumput di Termux](teks/3-Termux/Cara-Install-Rumput-di-Termux.md)
+- [Cara Saya Menginstall Termux di Android](teks/3-Termux/Cara-Saya-Menginstall-Termux-di-Android.md)
+- [Menggunakan Smartphone sebagai Pengganti Tablet atau Laptop](teks/1-Trik-Unik/Menggunakan-Smartphone-sebagai-Pengganti-Tablet-atau-Laptop.md)
+- [Cara Membuat Wallpaper PC Resolusi Tinggi dengan YouTube](teks/1-Trik-Unik/Cara-Membuat-Wallpaper-PC-Resolusi-Tinggi-dengan-YouTube.md)
+
 ## 0-Trik-Biasa
 
 - [Aplikasi Catatan Terenkripsi Portable untuk Ubuntu](teks/0-Trik-Biasa/Aplikasi-Catatan-Terenkripsi-Portable-untuk-Ubuntu.md)
