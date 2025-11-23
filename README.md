@@ -4,7 +4,7 @@ This repository contains my blog posts. If you want to read the English version,
 
 ## Latest 5 Posts
 
-- [Cara Memunculkan GNOME Taskbar di Arch Linux](teks/4-Arch-Linux/Cara-Memunculkan-GNOME-Taskbar-di-Arch-Linux.md)
+- [Cara Memunculkan GNOME Dash di Arch Linux](teks/4-Arch-Linux/Cara-Memunculkan-GNOME-Dash-di-Arch-Linux.md)
 - [Cara Install WordPress di Termux tanpa Apache](teks/3-Termux/Cara-Install-WordPress-di-Termux-tanpa-Apache.md)
 - [Cara Install Rumput di Termux](teks/3-Termux/Cara-Install-Rumput-di-Termux.md)
 - [Cara Saya Menginstall Termux di Android](teks/3-Termux/Cara-Saya-Menginstall-Termux-di-Android.md)
@@ -80,7 +80,7 @@ This repository contains my blog posts. If you want to read the English version,
 
 ## 4-Arch-Linux
 
-- [Cara Memunculkan GNOME Taskbar di Arch Linux](teks/4-Arch-Linux/Cara-Memunculkan-GNOME-Taskbar-di-Arch-Linux.md)
+- [Cara Memunculkan GNOME Dash di Arch Linux](teks/4-Arch-Linux/Cara-Memunculkan-GNOME-Dash-di-Arch-Linux.md)
 
 ## 5-Network
 

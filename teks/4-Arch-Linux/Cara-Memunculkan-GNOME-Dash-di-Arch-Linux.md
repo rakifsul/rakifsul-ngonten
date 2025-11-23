@@ -1,4 +1,4 @@
-# Cara Memunculkan GNOME TaskBar di Arch Linux
+# Cara Memunculkan GNOME Dash di Arch Linux
 
 Jika kita menggunakan fitur archinstall dari Arch Linux, maka jika kita juga memilih GNOME untuk desktop-nya, maka Dash akan tersembunyi secara default, kecuali kita mengklik tombol kiri atas layar.
 
