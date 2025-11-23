@@ -11,7 +11,7 @@ Extension tersebut hanya bisa diinstall jika kita sudah menginstall 2 package in
 
 Package pertama digunakan untuk memanajemen GNOME extensions.
 
-Package kedua akan menghubungkan Browser default GNOME ke GNOME extensions repository yang ada di:
+Package kedua akan menghubungkan Browser default dari archinstall ke GNOME extensions repository yang ada di:
 
 https://extensions.gnome.org
 
