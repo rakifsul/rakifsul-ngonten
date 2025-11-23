@@ -4,11 +4,11 @@ This repository contains my blog posts. If you want to read the English version,
 
 ## Latest 5 Posts
 
+- [Cara Memunculkan Gnome Taskbar di Arch Linux](teks/4-Arch-Linux/Cara-Memunculkan-Gnome-Taskbar-di-Arch-Linux.md)
 - [Cara Install WordPress di Termux tanpa Apache](teks/3-Termux/Cara-Install-WordPress-di-Termux-tanpa-Apache.md)
 - [Cara Install Rumput di Termux](teks/3-Termux/Cara-Install-Rumput-di-Termux.md)
 - [Cara Saya Menginstall Termux di Android](teks/3-Termux/Cara-Saya-Menginstall-Termux-di-Android.md)
 - [Menggunakan Smartphone sebagai Pengganti Tablet atau Laptop](teks/1-Trik-Unik/Menggunakan-Smartphone-sebagai-Pengganti-Tablet-atau-Laptop.md)
-- [Cara Membuat Wallpaper PC Resolusi Tinggi dengan YouTube](teks/1-Trik-Unik/Cara-Membuat-Wallpaper-PC-Resolusi-Tinggi-dengan-YouTube.md)
 
 ## 0-Trik-Biasa
 
@@ -77,6 +77,10 @@ This repository contains my blog posts. If you want to read the English version,
 - [Cara Install Rumput di Termux](teks/3-Termux/Cara-Install-Rumput-di-Termux.md)
 - [Cara Install WordPress di Termux tanpa Apache](teks/3-Termux/Cara-Install-WordPress-di-Termux-tanpa-Apache.md)
 - [Cara Saya Menginstall Termux di Android](teks/3-Termux/Cara-Saya-Menginstall-Termux-di-Android.md)
+
+## 4-Arch-Linux
+
+- [Cara Memunculkan Gnome Taskbar di Arch Linux](teks/4-Arch-Linux/Cara-Memunculkan-Gnome-Taskbar-di-Arch-Linux.md)
 
 ## 5-Network
 
