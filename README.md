@@ -4,11 +4,11 @@ This repository contains my blog posts. If you want to read the English version,
 
 ## Latest 5 Posts
 
+- [Cara Install Qemu KVM di Ubuntu](teks/0-Trik-Biasa/Cara-Install-Qemu-KVM-di-Ubuntu.md)
 - [Cara Memunculkan GNOME Dash di Arch Linux](teks/4-Arch-Linux/Cara-Memunculkan-GNOME-Dash-di-Arch-Linux.md)
 - [Cara Install WordPress di Termux tanpa Apache](teks/3-Termux/Cara-Install-WordPress-di-Termux-tanpa-Apache.md)
 - [Cara Install Rumput di Termux](teks/3-Termux/Cara-Install-Rumput-di-Termux.md)
 - [Cara Saya Menginstall Termux di Android](teks/3-Termux/Cara-Saya-Menginstall-Termux-di-Android.md)
-- [Menggunakan Smartphone sebagai Pengganti Tablet atau Laptop](teks/1-Trik-Unik/Menggunakan-Smartphone-sebagai-Pengganti-Tablet-atau-Laptop.md)
 
 ## 0-Trik-Biasa
 
@@ -22,6 +22,7 @@ This repository contains my blog posts. If you want to read the English version,
 - [Cara Build kiwix serve dan kiwix tools dari Source Code dengan Target Linux](teks/0-Trik-Biasa/Cara-Build-kiwix-serve-dan-kiwix-tools-dari-Source-Code-dengan-Target-Linux.md)
 - [Cara Build VSCode dari Source Code dengan Target Linux](teks/0-Trik-Biasa/Cara-Build-VSCode-dari-Source-Code-dengan-Target-Linux.md)
 - [Cara Cepat untuk Install Docker di Ubuntu dan Raspberry Pi OS](teks/0-Trik-Biasa/Cara-Cepat-untuk-Install-Docker-di-Ubuntu-dan-Raspberry-Pi-OS.md)
+- [Cara Install Qemu KVM di Ubuntu](teks/0-Trik-Biasa/Cara-Install-Qemu-KVM-di-Ubuntu.md)
 - [Cara Manajemen File Remote dengan Nautilus](teks/0-Trik-Biasa/Cara-Manajemen-File-Remote-dengan-Nautilus.md)
 - [Cara Membangun Aplikasi Note Taking Fitur Berlimpah dengan Sedikit Coding](teks/0-Trik-Biasa/Cara-Membangun-Aplikasi-Note-Taking-Fitur-Berlimpah-dengan-Sedikit-Coding.md)
 - [Cara Membuat Aplikasi Code Server jadi Portable di Ubuntu 24.04](teks/0-Trik-Biasa/Cara-Membuat-Aplikasi-Code-Server-jadi-Portable-di-Ubuntu-24.04.md)
