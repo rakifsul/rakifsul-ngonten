@@ -4,11 +4,11 @@ This repository contains my blog posts. If you want to read the English version,
 
 ## Latest 5 Posts
 
+- [Cara Mengatasi Ollama Macet saat Memproses Prompt](teks/2-LLM/Cara-Mengatasi-Ollama-Macet-saat-Memproses-Prompt.md)
 - [Cara Install Qemu KVM di Ubuntu](teks/0-Trik-Biasa/Cara-Install-Qemu-KVM-di-Ubuntu.md)
 - [Cara Memunculkan GNOME Dash di Arch Linux](teks/4-Arch-Linux/Cara-Memunculkan-GNOME-Dash-di-Arch-Linux.md)
 - [Cara Install WordPress di Termux tanpa Apache](teks/3-Termux/Cara-Install-WordPress-di-Termux-tanpa-Apache.md)
 - [Cara Install Rumput di Termux](teks/3-Termux/Cara-Install-Rumput-di-Termux.md)
-- [Cara Saya Menginstall Termux di Android](teks/3-Termux/Cara-Saya-Menginstall-Termux-di-Android.md)
 
 ## 0-Trik-Biasa
 
@@ -57,6 +57,7 @@ This repository contains my blog posts. If you want to read the English version,
 
 - [Cara Build Ollama dari Source Code dan Mencoba Menjalankannya](teks/2-LLM/Cara-Build-Ollama-dari-Source-Code-dan-Mencoba-Menjalankannya.md)
 - [Cara Mencoba BitNet LLM dengan Menggunakan Web UI dan Docker](teks/2-LLM/Cara-Mencoba-BitNet-LLM-dengan-Menggunakan-Web-UI-dan-Docker.md)
+- [Cara Mengatasi Ollama Macet saat Memproses Prompt](teks/2-LLM/Cara-Mengatasi-Ollama-Macet-saat-Memproses-Prompt.md)
 - [Cara Skip Update NVidia Saat Upgrade Ubuntu](teks/2-LLM/Cara-Skip-Update-NVidia-Saat-Upgrade-Ubuntu.md)
 - [Cerita Waktu Saya Ingin Coding Pakai LLM Lokal dengan VSCode di Ubuntu 24.04.2](teks/2-LLM/Cerita-Waktu-Saya-Ingin-Coding-Pakai-LLM-Lokal-dengan-VSCode-di-Ubuntu-24.04.2.md)
 - [Membandingkan Hasil Benchmark Dua Nilai Batch Size pada Penggunaan llama bench dari llama.cpp](teks/2-LLM/Membandingkan-Hasil-Benchmark-Dua-Nilai-Batch-Size-pada-Penggunaan-llama-bench-dari-llama.cpp.md)
