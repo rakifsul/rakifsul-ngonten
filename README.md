@@ -4,11 +4,11 @@ This repository contains my blog posts. If you want to read the English version,
 
 ## Latest 5 Posts
 
+- [Tutorial llama.cpp Seri 7 Node.js Binding](teks/2-LLM/Tutorial-llama.cpp-Seri-7-Node.js-Binding.md)
 - [Cara Mengatasi Ollama Macet saat Memproses Prompt](teks/2-LLM/Cara-Mengatasi-Ollama-Macet-saat-Memproses-Prompt.md)
 - [Cara Install Qemu KVM di Ubuntu](teks/0-Trik-Biasa/Cara-Install-Qemu-KVM-di-Ubuntu.md)
 - [Cara Memunculkan GNOME Dash di Arch Linux](teks/4-Arch-Linux/Cara-Memunculkan-GNOME-Dash-di-Arch-Linux.md)
 - [Cara Install WordPress di Termux tanpa Apache](teks/3-Termux/Cara-Install-WordPress-di-Termux-tanpa-Apache.md)
-- [Cara Install Rumput di Termux](teks/3-Termux/Cara-Install-Rumput-di-Termux.md)
 
 ## 0-Trik-Biasa
 
@@ -72,6 +72,7 @@ This repository contains my blog posts. If you want to read the English version,
 - [Tutorial llama.cpp Seri 4 Mencoba Temperature dan Top K](teks/2-LLM/Tutorial-llama.cpp-Seri-4-Mencoba-Temperature-dan-Top-K.md)
 - [Tutorial llama.cpp Seri 5 Konversi Model ke GGUF dan Kuantisasinya](teks/2-LLM/Tutorial-llama.cpp-Seri-5-Konversi-Model-ke-GGUF-dan-Kuantisasinya.md)
 - [Tutorial llama.cpp Seri 6 Kenapa Bash Begitu Menarik](teks/2-LLM/Tutorial-llama.cpp-Seri-6-Kenapa-Bash-Begitu-Menarik.md)
+- [Tutorial llama.cpp Seri 7 Node.js Binding](teks/2-LLM/Tutorial-llama.cpp-Seri-7-Node.js-Binding.md)
 - [Tutorial Singkat Bot Mastodon dengan Local LLM gemma3 dan Ollama](teks/2-LLM/Tutorial-Singkat-Bot-Mastodon-dengan-Local-LLM-gemma3-dan-Ollama.md)
 
 ## 3-Termux
