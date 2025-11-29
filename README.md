@@ -4,11 +4,11 @@ This repository contains my blog posts. If you want to read the English version,
 
 ## Latest 5 Posts
 
+- [Cara Pilih Workspace GNOME Otomatis Setelah Login di Arch Linux](teks/4-Arch-Linux/Cara-Pilih-Workspace-GNOME-Otomatis-Setelah-Login-di-Arch-Linux.md)
 - [Tutorial llama.cpp Seri 7 Node.js Binding](teks/2-LLM/Tutorial-llama.cpp-Seri-7-Node.js-Binding.md)
 - [Cara Mengatasi Ollama Macet saat Memproses Prompt](teks/2-LLM/Cara-Mengatasi-Ollama-Macet-saat-Memproses-Prompt.md)
 - [Cara Install Qemu KVM di Ubuntu](teks/0-Trik-Biasa/Cara-Install-Qemu-KVM-di-Ubuntu.md)
 - [Cara Memunculkan GNOME Dash di Arch Linux](teks/4-Arch-Linux/Cara-Memunculkan-GNOME-Dash-di-Arch-Linux.md)
-- [Cara Install WordPress di Termux tanpa Apache](teks/3-Termux/Cara-Install-WordPress-di-Termux-tanpa-Apache.md)
 
 ## 0-Trik-Biasa
 
@@ -84,6 +84,7 @@ This repository contains my blog posts. If you want to read the English version,
 ## 4-Arch-Linux
 
 - [Cara Memunculkan GNOME Dash di Arch Linux](teks/4-Arch-Linux/Cara-Memunculkan-GNOME-Dash-di-Arch-Linux.md)
+- [Cara Pilih Workspace GNOME Otomatis Setelah Login di Arch Linux](teks/4-Arch-Linux/Cara-Pilih-Workspace-GNOME-Otomatis-Setelah-Login-di-Arch-Linux.md)
 
 ## 5-Network
 
