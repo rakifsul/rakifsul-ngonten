@@ -4,11 +4,11 @@ This repository contains my blog posts. If you want to read the English version,
 
 ## Latest 5 Posts
 
-- [Cara Modifikasi Aplikasi SearXNG dari Source Code](teks/2-Ubuntu/Cara-Modifikasi-Aplikasi-SearXNG-dari-Source-Code.md)
-- [Tutorial Singkat Bot Mastodon dengan Local LLM gemma3 dan Ollama](teks/1-Trik-LLM/Tutorial-Singkat-Bot-Mastodon-dengan-Local-LLM-gemma3-dan-Ollama.md)
+- [Memanfaatkan SSD Bekas untuk Backup Sistem](teks/0-Trik-Unik/Memanfaatkan-SSD-Bekas-untuk-Backup-Sistem.md)
 - [Cara Memperbaiki mkinitcpio.conf Arch Linux yang Rusak agar Bisa Boot Lagi](teks/3-Arch-Linux/Cara-Memperbaiki-mkinitcpio.conf-Arch-Linux-yang-Rusak-agar-Bisa-Boot-Lagi.md)
 - [Cara Pilih Workspace GNOME Otomatis Setelah Login di Arch Linux](teks/3-Arch-Linux/Cara-Pilih-Workspace-GNOME-Otomatis-Setelah-Login-di-Arch-Linux.md)
 - [Tutorial llama.cpp Seri 7 Node.js Binding](teks/1-Trik-LLM/Tutorial-llama.cpp-Seri-7-Node.js-Binding.md)
+- [Cara Mengatasi Ollama Macet saat Memproses Prompt](teks/1-Trik-LLM/Cara-Mengatasi-Ollama-Macet-saat-Memproses-Prompt.md)
 
 ## 0-Trik-Unik
 
@@ -16,6 +16,7 @@ This repository contains my blog posts. If you want to read the English version,
 - [Cara Memasang Search Input di Publii dengan Plugin Buatan Sendiri](teks/0-Trik-Unik/Cara-Memasang-Search-Input-di-Publii-dengan-Plugin-Buatan-Sendiri.md)
 - [Cara Membuat Wallpaper PC Resolusi Tinggi dengan YouTube](teks/0-Trik-Unik/Cara-Membuat-Wallpaper-PC-Resolusi-Tinggi-dengan-YouTube.md)
 - [Manajemen Halaman Web Ter Save hanya dengan Browser dan Bookmark](teks/0-Trik-Unik/Manajemen-Halaman-Web-Ter-Save-hanya-dengan-Browser-dan-Bookmark.md)
+- [Memanfaatkan SSD Bekas untuk Backup Sistem](teks/0-Trik-Unik/Memanfaatkan-SSD-Bekas-untuk-Backup-Sistem.md)
 - [Membuat Link in Bio Gratis dengan Subdomain tanpa Perlu Sewa Hosting](teks/0-Trik-Unik/Membuat-Link-in-Bio-Gratis-dengan-Subdomain-tanpa-Perlu-Sewa-Hosting.md)
 - [Menggunakan Smartphone sebagai Pengganti Tablet atau Laptop](teks/0-Trik-Unik/Menggunakan-Smartphone-sebagai-Pengganti-Tablet-atau-Laptop.md)
 
