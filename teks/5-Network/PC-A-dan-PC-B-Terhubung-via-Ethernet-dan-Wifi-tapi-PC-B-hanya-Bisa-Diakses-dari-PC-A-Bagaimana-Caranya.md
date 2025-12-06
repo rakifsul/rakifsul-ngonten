@@ -22,7 +22,7 @@ Dengan menggunakan PC A saja, proses penggunaan modelnya akan sedikit lama.
 
 Karena PC B merupakan mantan PC gaming dengan GPU yang lumayan, maka proses tadi menjadi lebih cepat.
 
-Maka, saat saya menjalankan program yang menggunakan LLM, seperti [code generator yang dibahas di artikel ini](../2-LLM/Membuat-Bahasa-Pemrograman-Web-yang-Menggunakan-Bahasa-Manusia-dengan-LLM.md), dengan model yang lebih berat seperti gemma3:12b, mungkin saya bisa menjalankannya lebih cepat dengan setup ini.
+Maka, saat saya menjalankan program yang menggunakan LLM, seperti [code generator yang dibahas di artikel ini](../1-Trik-LLM/Membuat-Bahasa-Pemrograman-Web-yang-Menggunakan-Bahasa-Manusia-dengan-LLM.md), dengan model yang lebih berat seperti gemma3:12b, mungkin saya bisa menjalankannya lebih cepat dengan setup ini.
 
 Selain itu, jika kita berada dalam jaringan yang tidak terlalu private, misalnya di kantor atau restoran, dan kita memiliki komputer yang seperti PC A dan PC B tadi, maka setup semacam ini cukup baik untuk mencegah user yang tidak diinginkan mengakses PC B.
 
@@ -43,7 +43,7 @@ Dengan kata lain, fokus dari "bagaimana caranya" adalah seputar pengaturan ip, p
 
 Pertama, saya asumsikan bahwa jaringan Wifi PC A dan PC B adalah 192.168.0.0/24.
 
-Saya juga berasumsi bahwa Ollama API dibroadcast pada 0.0.0.0:11434 seperti yang dibahas [di artikel ini](../2-LLM/Cerita-Waktu-Saya-Ingin-Coding-Pakai-LLM-Lokal-dengan-VSCode-di-Ubuntu-24.04.2.md).
+Saya juga berasumsi bahwa Ollama API dibroadcast pada 0.0.0.0:11434 seperti yang dibahas [di artikel ini](../1-Trik-LLM/Cerita-Waktu-Saya-Ingin-Coding-Pakai-LLM-Lokal-dengan-VSCode-di-Ubuntu-24.04.2.md).
 
 Saya juga berasumsi bahwa Wifi PC B sudah disetup, biasanya saat Ubuntu Server baru diinstall.
 
