@@ -1,6 +1,6 @@
 # List of RAKIFSUL Ngonten Blog Posts
 
-This repository contains my blog posts. If you want to read the English version, right click on your browser, then click "Translate to English". 
+This repository contains my blog posts. If you want to read the English version, right click on your browser, then click "Translate to English"... 
 
 ## Latest 5 Posts
 
