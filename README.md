@@ -1,14 +1,14 @@
 # List of RAKIFSUL Ngonten Blog Posts
 
-This repository contains my blog posts. If you want to read the English version, right click on your browser, then click "Translate to English"... 
+This repository contains my blog posts. If you want to read the English version, right click on your browser, then click "Translate to English". 
 
 ## Latest 5 Posts
 
+- [Daftar Aplikasi CLI yang Harus Anda Coba di Tahun 2025](teks/2-Ubuntu/Daftar-Aplikasi-CLI-yang-Harus-Anda-Coba-di-Tahun-2025.md)
 - [Memanfaatkan SSD Bekas untuk Backup Sistem](teks/0-Trik-Unik/Memanfaatkan-SSD-Bekas-untuk-Backup-Sistem.md)
 - [Cara Memperbaiki mkinitcpio.conf Arch Linux yang Rusak agar Bisa Boot Lagi](teks/3-Arch-Linux/Cara-Memperbaiki-mkinitcpio.conf-Arch-Linux-yang-Rusak-agar-Bisa-Boot-Lagi.md)
 - [Cara Pilih Workspace GNOME Otomatis Setelah Login di Arch Linux](teks/3-Arch-Linux/Cara-Pilih-Workspace-GNOME-Otomatis-Setelah-Login-di-Arch-Linux.md)
 - [Tutorial llama.cpp Seri 7 Node.js Binding](teks/1-Trik-LLM/Tutorial-llama.cpp-Seri-7-Node.js-Binding.md)
-- [Cara Mengatasi Ollama Macet saat Memproses Prompt](teks/1-Trik-LLM/Cara-Mengatasi-Ollama-Macet-saat-Memproses-Prompt.md)
 
 ## 0-Trik-Unik
 
@@ -66,6 +66,7 @@ This repository contains my blog posts. If you want to read the English version,
 - [Cara Menginstall dan Memasang Password di Node Red](teks/2-Ubuntu/Cara-Menginstall-dan-Memasang-Password-di-Node-Red.md)
 - [Cara Modifikasi Aplikasi SearXNG dari Source Code](teks/2-Ubuntu/Cara-Modifikasi-Aplikasi-SearXNG-dari-Source-Code.md)
 - [Code Playground Komplit Self Hosted untuk Menjajal Kode Anda](teks/2-Ubuntu/Code-Playground-Komplit-Self-Hosted-untuk-Menjajal-Kode-Anda.md)
+- [Daftar Aplikasi CLI yang Harus Anda Coba di Tahun 2025](teks/2-Ubuntu/Daftar-Aplikasi-CLI-yang-Harus-Anda-Coba-di-Tahun-2025.md)
 - [Distro Linux dalam Container untuk Web Browser](teks/2-Ubuntu/Distro-Linux-dalam-Container-untuk-Web-Browser.md)
 - [Lagi Lagi Bahas PHP tapi Kali ini Dengan Docker dan Dockerfile](teks/2-Ubuntu/Lagi-Lagi-Bahas-PHP-tapi-Kali-ini-Dengan-Docker-dan-Dockerfile.md)
 - [Membuat NPMJS Versi Offline dengan Verdaccio tanpa Docker](teks/2-Ubuntu/Membuat-NPMJS-Versi-Offline-dengan-Verdaccio-tanpa-Docker.md)
