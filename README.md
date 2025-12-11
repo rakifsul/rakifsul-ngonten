@@ -4,11 +4,11 @@ This repository contains my blog posts. If you want to read the English version,
 
 ## Latest 5 Posts
 
+- [Cara agar Bisa dan Terbiasa Menggunakan Linux](teks/6-Lain-Lain/Cara-agar-Bisa-dan-Terbiasa-Menggunakan-Linux.md)
 - [Daftar Aplikasi CLI yang Harus Anda Coba di Tahun 2025](teks/2-Ubuntu/Daftar-Aplikasi-CLI-yang-Harus-Anda-Coba-di-Tahun-2025.md)
 - [Memanfaatkan SSD Bekas untuk Backup Sistem](teks/0-Trik-Unik/Memanfaatkan-SSD-Bekas-untuk-Backup-Sistem.md)
+- [PC A dan PC B Terhubung via Ethernet dan Wifi tapi PC B hanya Bisa Diakses dari PC A Bagaimana Caranya](teks/5-Hardware/PC-A-dan-PC-B-Terhubung-via-Ethernet-dan-Wifi-tapi-PC-B-hanya-Bisa-Diakses-dari-PC-A-Bagaimana-Caranya.md)
 - [Cara Memperbaiki mkinitcpio.conf Arch Linux yang Rusak agar Bisa Boot Lagi](teks/3-Arch-Linux/Cara-Memperbaiki-mkinitcpio.conf-Arch-Linux-yang-Rusak-agar-Bisa-Boot-Lagi.md)
-- [Cara Pilih Workspace GNOME Otomatis Setelah Login di Arch Linux](teks/3-Arch-Linux/Cara-Pilih-Workspace-GNOME-Otomatis-Setelah-Login-di-Arch-Linux.md)
-- [Tutorial llama.cpp Seri 7 Node.js Binding](teks/1-Trik-LLM/Tutorial-llama.cpp-Seri-7-Node.js-Binding.md)
 
 ## 0-Trik-Unik
 
@@ -89,10 +89,14 @@ This repository contains my blog posts. If you want to read the English version,
 - [Cara Install WordPress di Termux tanpa Apache](teks/4-Termux/Cara-Install-WordPress-di-Termux-tanpa-Apache.md)
 - [Cara Saya Menginstall Termux di Android](teks/4-Termux/Cara-Saya-Menginstall-Termux-di-Android.md)
 
-## 5-Network
+## 5-Hardware
 
-- [Cara Menghubungkan 2 Komputer dengan Kabel di Windows](teks/5-Network/Cara-Menghubungkan-2-Komputer-dengan-Kabel-di-Windows.md)
-- [PC A dan PC B Terhubung via Ethernet dan Wifi tapi PC B hanya Bisa Diakses dari PC A Bagaimana Caranya](teks/5-Network/PC-A-dan-PC-B-Terhubung-via-Ethernet-dan-Wifi-tapi-PC-B-hanya-Bisa-Diakses-dari-PC-A-Bagaimana-Caranya.md)
+- [Cara Menghubungkan 2 Komputer dengan Kabel di Windows](teks/5-Hardware/Cara-Menghubungkan-2-Komputer-dengan-Kabel-di-Windows.md)
+- [PC A dan PC B Terhubung via Ethernet dan Wifi tapi PC B hanya Bisa Diakses dari PC A Bagaimana Caranya](teks/5-Hardware/PC-A-dan-PC-B-Terhubung-via-Ethernet-dan-Wifi-tapi-PC-B-hanya-Bisa-Diakses-dari-PC-A-Bagaimana-Caranya.md)
+
+## 6-Lain-Lain
+
+- [Cara agar Bisa dan Terbiasa Menggunakan Linux](teks/6-Lain-Lain/Cara-agar-Bisa-dan-Terbiasa-Menggunakan-Linux.md)
 
 ## Get More Precious Links
 
