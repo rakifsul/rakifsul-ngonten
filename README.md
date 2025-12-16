@@ -4,11 +4,11 @@ This repository contains my blog posts. If you want to read the English version,
 
 ## Latest 5 Posts
 
+- [Menyelami Dalamnya Perintah ls di Linux](teks/0-Trik-Unik/Menyelami-Dalamnya-Perintah-ls-di-Linux.md)
 - [Cara Install ComfyUI dengan pyenv di Ubuntu](teks/0-Trik-Unik/Cara-Install-ComfyUI-dengan-pyenv-di-Ubuntu.md)
 - [Cara agar Bisa dan Terbiasa Menggunakan Linux](teks/6-Lain-Lain/Cara-agar-Bisa-dan-Terbiasa-Menggunakan-Linux.md)
 - [Daftar Aplikasi CLI yang Harus Anda Coba di Tahun 2025](teks/2-Ubuntu/Daftar-Aplikasi-CLI-yang-Harus-Anda-Coba-di-Tahun-2025.md)
 - [Memanfaatkan SSD Bekas untuk Backup Sistem](teks/0-Trik-Unik/Memanfaatkan-SSD-Bekas-untuk-Backup-Sistem.md)
-- [Cara Memperbaiki mkinitcpio.conf Arch Linux yang Rusak agar Bisa Boot Lagi](teks/3-Arch-Linux/Cara-Memperbaiki-mkinitcpio.conf-Arch-Linux-yang-Rusak-agar-Bisa-Boot-Lagi.md)
 
 ## 0-Trik-Unik
 
@@ -20,6 +20,7 @@ This repository contains my blog posts. If you want to read the English version,
 - [Memanfaatkan SSD Bekas untuk Backup Sistem](teks/0-Trik-Unik/Memanfaatkan-SSD-Bekas-untuk-Backup-Sistem.md)
 - [Membuat Link in Bio Gratis dengan Subdomain tanpa Perlu Sewa Hosting](teks/0-Trik-Unik/Membuat-Link-in-Bio-Gratis-dengan-Subdomain-tanpa-Perlu-Sewa-Hosting.md)
 - [Menggunakan Smartphone sebagai Pengganti Tablet atau Laptop](teks/0-Trik-Unik/Menggunakan-Smartphone-sebagai-Pengganti-Tablet-atau-Laptop.md)
+- [Menyelami Dalamnya Perintah ls di Linux](teks/0-Trik-Unik/Menyelami-Dalamnya-Perintah-ls-di-Linux.md)
 
 ## 1-Trik-LLM
 
