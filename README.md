@@ -4,11 +4,11 @@ This repository contains my blog posts. If you want to read the English version,
 
 ## Latest 5 Posts
 
+- [Cara Install Docker yang Lebih Mudah Lagi di Ubuntu](teks/2-Ubuntu/Cara-Install-Docker-yang-Lebih-Mudah-Lagi-di-Ubuntu.md)
 - [Cara Memantau Output Banyak Aplikasi Terminal dengan Lebih Nyaman](teks/0-Trik-Unik/Cara-Memantau-Output-Banyak-Aplikasi-Terminal-dengan-Lebih-Nyaman.md)
 - [Menyelami Dalamnya Perintah ls di Linux](teks/0-Trik-Unik/Menyelami-Dalamnya-Perintah-ls-di-Linux.md)
 - [Cara Install ComfyUI dengan pyenv di Ubuntu](teks/0-Trik-Unik/Cara-Install-ComfyUI-dengan-pyenv-di-Ubuntu.md)
 - [Cara agar Bisa dan Terbiasa Menggunakan Linux](teks/6-Lain-Lain/Cara-agar-Bisa-dan-Terbiasa-Menggunakan-Linux.md)
-- [Daftar Aplikasi CLI yang Harus Anda Coba di Tahun 2025](teks/2-Ubuntu/Daftar-Aplikasi-CLI-yang-Harus-Anda-Coba-di-Tahun-2025.md)
 
 ## 0-Trik-Unik
 
@@ -57,6 +57,7 @@ This repository contains my blog posts. If you want to read the English version,
 - [Cara Build kiwix serve dan kiwix tools dari Source Code dengan Target Linux](teks/2-Ubuntu/Cara-Build-kiwix-serve-dan-kiwix-tools-dari-Source-Code-dengan-Target-Linux.md)
 - [Cara Build VSCode dari Source Code dengan Target Linux](teks/2-Ubuntu/Cara-Build-VSCode-dari-Source-Code-dengan-Target-Linux.md)
 - [Cara Cepat untuk Install Docker di Ubuntu dan Raspberry Pi OS](teks/2-Ubuntu/Cara-Cepat-untuk-Install-Docker-di-Ubuntu-dan-Raspberry-Pi-OS.md)
+- [Cara Install Docker yang Lebih Mudah Lagi di Ubuntu](teks/2-Ubuntu/Cara-Install-Docker-yang-Lebih-Mudah-Lagi-di-Ubuntu.md)
 - [Cara Install Qemu KVM di Ubuntu](teks/2-Ubuntu/Cara-Install-Qemu-KVM-di-Ubuntu.md)
 - [Cara Manajemen File Remote dengan Nautilus](teks/2-Ubuntu/Cara-Manajemen-File-Remote-dengan-Nautilus.md)
 - [Cara Membangun Aplikasi Note Taking Fitur Berlimpah dengan Sedikit Coding](teks/2-Ubuntu/Cara-Membangun-Aplikasi-Note-Taking-Fitur-Berlimpah-dengan-Sedikit-Coding.md)
