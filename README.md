@@ -4,16 +4,17 @@ This repository contains my blog posts. If you want to read the English version,
 
 ## Latest 5 Posts
 
+- [Cara Memantau Output Banyak Aplikasi Terminal dengan Lebih Nyaman](teks/0-Trik-Unik/Cara-Memantau-Output-Banyak-Aplikasi-Terminal-dengan-Lebih-Nyaman.md)
 - [Menyelami Dalamnya Perintah ls di Linux](teks/0-Trik-Unik/Menyelami-Dalamnya-Perintah-ls-di-Linux.md)
 - [Cara Install ComfyUI dengan pyenv di Ubuntu](teks/0-Trik-Unik/Cara-Install-ComfyUI-dengan-pyenv-di-Ubuntu.md)
 - [Cara agar Bisa dan Terbiasa Menggunakan Linux](teks/6-Lain-Lain/Cara-agar-Bisa-dan-Terbiasa-Menggunakan-Linux.md)
 - [Daftar Aplikasi CLI yang Harus Anda Coba di Tahun 2025](teks/2-Ubuntu/Daftar-Aplikasi-CLI-yang-Harus-Anda-Coba-di-Tahun-2025.md)
-- [Memanfaatkan SSD Bekas untuk Backup Sistem](teks/0-Trik-Unik/Memanfaatkan-SSD-Bekas-untuk-Backup-Sistem.md)
 
 ## 0-Trik-Unik
 
 - [Berbagai Cara Menempatkan 3 PC di Meja Sempit](teks/0-Trik-Unik/Berbagai-Cara-Menempatkan-3-PC-di-Meja-Sempit.md)
 - [Cara Install ComfyUI dengan pyenv di Ubuntu](teks/0-Trik-Unik/Cara-Install-ComfyUI-dengan-pyenv-di-Ubuntu.md)
+- [Cara Memantau Output Banyak Aplikasi Terminal dengan Lebih Nyaman](teks/0-Trik-Unik/Cara-Memantau-Output-Banyak-Aplikasi-Terminal-dengan-Lebih-Nyaman.md)
 - [Cara Memasang Search Input di Publii dengan Plugin Buatan Sendiri](teks/0-Trik-Unik/Cara-Memasang-Search-Input-di-Publii-dengan-Plugin-Buatan-Sendiri.md)
 - [Cara Membuat Wallpaper PC Resolusi Tinggi dengan YouTube](teks/0-Trik-Unik/Cara-Membuat-Wallpaper-PC-Resolusi-Tinggi-dengan-YouTube.md)
 - [Manajemen Halaman Web Ter Save hanya dengan Browser dan Bookmark](teks/0-Trik-Unik/Manajemen-Halaman-Web-Ter-Save-hanya-dengan-Browser-dan-Bookmark.md)
