@@ -6,7 +6,7 @@ Setelah membaca beberapa artikel di beberapa website favorit saya, saya memutusk
 
 Saya masih ingat bahwa beberapa waktu yang lalu saya pernah membahas cara menginstall SearXNG, yang merupakan self hosted search engine.
 
-Jika Anda ingin membacanya, [klik di sini](./Cara-Membuat-Search-Engine-Pribadi-dengan-SearXNG.md).
+Jika Anda ingin membacanya, [klik di sini](../2-Docker/Cara-Membuat-Search-Engine-Pribadi-dengan-SearXNG.md).
 
 Tapi, lebih dari itu, terinspirasi dari cara installnya, saya mendapat ide tentang bagaimana jika saya membuatkan artikel tentang cara memodifikasinya.
 
@@ -34,7 +34,7 @@ Juga, Anda perlu sebuah gambar PNG apapun yang beda dengan logo SearXNG.
 
 Pastikan ukuran PNG tadi tidak berbeda jauh dengan logo SearXNG di homepage-nya.
 
-Jika Anda tertarik untuk menggunakan pyenv dalam menginstall Python 3.11.13, saya sudah pernah membahasnya [di artikel ini](../1-Trik-LLM/Menginstall-Ollama-dan-Open-WebUI-di-Ubuntu-24.04-tanpa-Docker.md). Cari saja subbab tentang pyenv.
+Jika Anda tertarik untuk menggunakan pyenv dalam menginstall Python 3.11.13, saya sudah pernah membahasnya [di artikel ini](../1-AI/Menginstall-Ollama-dan-Open-WebUI-di-Ubuntu-24.04-tanpa-Docker.md). Cari saja subbab tentang pyenv.
 
 ## Melakukan Clone Repository SearXNG
 
