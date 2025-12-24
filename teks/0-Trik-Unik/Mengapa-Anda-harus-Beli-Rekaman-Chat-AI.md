@@ -71,7 +71,7 @@ Pembeli bisa:
 
 ---
 
-## 6. Memberikan rasa “dibimbing” tanpa mentor mahal
+## 6. Memberikan rasa “dibimbing”
 
 Tidak semua orang punya:
 
