@@ -4,11 +4,11 @@ This repository contains my blog posts. If you want to read the English version,
 
 ## Latest 5 Posts
 
-- [Mengapa Anda harus Beli Rekaman Chat AI](teks/0-Trik-Unik/Mengapa-Anda-harus-Beli-Rekaman-Chat-AI.md)
 - [Cara Install Docker yang Lebih Mudah Lagi di Ubuntu](teks/2-Docker/Cara-Install-Docker-yang-Lebih-Mudah-Lagi-di-Ubuntu.md)
 - [Cara Memantau Output Banyak Aplikasi Terminal dengan Lebih Nyaman](teks/0-Trik-Unik/Cara-Memantau-Output-Banyak-Aplikasi-Terminal-dengan-Lebih-Nyaman.md)
 - [Cara Install ComfyUI dengan pyenv di Ubuntu](teks/0-Trik-Unik/Cara-Install-ComfyUI-dengan-pyenv-di-Ubuntu.md)
 - [Cara agar Bisa dan Terbiasa Menggunakan Linux](teks/7-Lain-Lain/Cara-agar-Bisa-dan-Terbiasa-Menggunakan-Linux.md)
+- [Daftar Aplikasi CLI yang Harus Anda Coba di Tahun 2025](teks/7-Lain-Lain/Daftar-Aplikasi-CLI-yang-Harus-Anda-Coba-di-Tahun-2025.md)
 
 ## 0-Trik-Unik
 
@@ -20,7 +20,6 @@ This repository contains my blog posts. If you want to read the English version,
 - [Manajemen Halaman Web Ter Save hanya dengan Browser dan Bookmark](teks/0-Trik-Unik/Manajemen-Halaman-Web-Ter-Save-hanya-dengan-Browser-dan-Bookmark.md)
 - [Memanfaatkan SSD Bekas untuk Backup Sistem](teks/0-Trik-Unik/Memanfaatkan-SSD-Bekas-untuk-Backup-Sistem.md)
 - [Membuat Link in Bio Gratis dengan Subdomain tanpa Perlu Sewa Hosting](teks/0-Trik-Unik/Membuat-Link-in-Bio-Gratis-dengan-Subdomain-tanpa-Perlu-Sewa-Hosting.md)
-- [Mengapa Anda harus Beli Rekaman Chat AI](teks/0-Trik-Unik/Mengapa-Anda-harus-Beli-Rekaman-Chat-AI.md)
 - [Menggunakan Smartphone sebagai Pengganti Tablet atau Laptop](teks/0-Trik-Unik/Menggunakan-Smartphone-sebagai-Pengganti-Tablet-atau-Laptop.md)
 
 ## 1-AI
