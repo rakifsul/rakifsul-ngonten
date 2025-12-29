@@ -1,0 +1,130 @@
+# Tutorial llama.cpp Seri 6 - Kenapa Bash Begitu Menarik
+
+Sebelum saya menggunakan llama.cpp, saya menggunakan Ollama dengan Open WebUI.
+
+Dulu saya lebih tertarik menggunakan web ui karena saya belum paham betul soal LLM.
+
+Konsep tersebut masih abstrak.
+
+Setelah saya beberapa kali menggunakannya, saya mulai bisa membedakan mana yang disebut model, dan apa yang menjalankan model tersebut.
+
+Jadi, menggunakan user interface grafis di awal sebenarnya ada manfaatnya, yakni untuk memahami sesuatu yang lebih abstrak jika dilakukan dengan scripting seperti dengan bash.
+
+Walaupun begitu, keleluasaan penggunaan bash belum bisa dikalahkan oleh user interface berbasis grafis.
+
+Itu karena bash mampu mewujudkan apa yang kita planning dalam otak kita asalkan kita mampu mengutarakannya dalam script dan masih dalam scope kemampuan script tersebut.
+
+## Menjalankan llama-cli Sekali, kemudian Langsung Exit
+
+Sebagai contoh, dengan bash, saya bisa melakukan ini:
+
+```bash
+# $models adalah variabel berisi path folder di mana model-model saya berada.
+# argument -st digunakan agar hanya sekali jalan, kemudian langsung exit.
+llama-cli -m $models/ggml-org_gemma-3-1b-it-GGUF_gemma-3-1b-it-Q4_K_M.gguf -p "hai. balas dengan 1 kalimat saja" -st > gak-penting.txt
+```
+
+Di situ, saya bisa memasukkan respon dari prompt yang ada di argument -p ke dalam file bernama "gak-penting.txt".
+
+## Bertanya Beberapa Kali dengan Satu Script
+
+Jika Anda kurang puas dengan prompt sebelumnya, Anda bisa mengulanginya 3 kali dengan kalimat yang berbeda:
+
+```bash
+for prompt in "Halo" "Apa kabar" "hai"; do
+    llama-cli -m $models/ggml-org_gemma-3-1b-it-GGUF_gemma-3-1b-it-Q4_K_M.gguf -p "$prompt" -st > "$prompt.txt"
+done
+```
+
+Masih belum puas juga? Coba buat yang 100 kali.
+
+## Manajemen Resource
+
+htop, nvidia-smi, dan free -h bisa berguna untuk mengawasi resource Anda saat menjalankan llama.cpp. Cukup masukkan perintah tadi di tab baru terminal Anda.
+
+Ini cocok untuk saya karena biasanya resource usage yang semakin dekat dengan 0% sangat memberi kepuasan bagi saya jika saya sedang menjalankan program yang berat.
+
+## Konversi .safetensors ke .gguf
+
+Beberapa model dipublikasi tanpa format .gguf.
+
+Jika model tersebut Anda butuhkan, maka Anda bisa menggunakan tool dari llama.cpp yang berbentuk script python.
+
+Untuk menjalankannya? Dengan bash. Contohnya [ada di artikel ini](./Tutorial-llama.cpp-Seri-5-Konversi-Model-ke-GGUF-dan-Kuantisasinya.md).
+
+## Menjalankan llama-server saat Komputer Booting
+
+llama-server bisa menyediakan web interface bawaan llama.cpp. Lengkap dengan konfigurasinya.
+
+Jika untuk menjalankannya secara sadar caranya seperti ini:
+
+```bash
+llama-server -m /path/to/model.gguf --host 127.0.0.1 --port 8081
+```
+
+Maka cara menjalankannya secara tidak sadar saat reboot seperti ini:
+
+```apacheconf
+crontab -e
+
+# masuk text editor, lalu isi di paling bawah:
+@reboot /path/absolut/dari/llama-server -m /path/absolut/dari/model.gguf --host 127.0.0.1 --port 8081 &
+
+# jangan lupa pakai & di akhir command.
+```
+
+## Mengetahui Command Arguments yang Paling Optimal pada perintah yang ada pada llama.cpp
+
+Caranya dengan menggunakan script bash ini:
+
+```
+#!/bin/bash
+
+# Cari setting optimal untuk llama.cpp dengan llama-bench
+
+# argumen pertama dari perintah ini adalah model yang akan diuji.
+MODEL=$1
+
+BEST_TOKS=0
+BEST_SETTINGS=""
+
+# Daftar threads dan batch yang mau diuji.
+# bisa ditambahkan dan dikurangi angka jumlah threads dan batch seperlunya.
+# sebagai contoh:
+# THREADS_LIST="2 4 6 8"
+# BATCH_LIST="16 64 512"
+
+THREADS_LIST="2 8"
+BATCH_LIST="16 512"
+
+echo "Benchmarking model: $MODEL"
+echo
+
+for THREADS in $THREADS_LIST; do
+  for BATCH in $BATCH_LIST; do
+    echo "Testing: threads=$THREADS batch=$BATCH"
+    RESULT=$(llama-bench -m $MODEL -t $THREADS -b $BATCH -n 128 -p 512 -o json)
+    TOKS=$(echo "$RESULT" | jq '.[] | select(.n_gen > 0) | .avg_ts')
+
+    if [ -n "$TOKS" ]; then
+      echo "tg throughput: $TOKS tok/s"
+      COMPARE=$(echo "$TOKS > $BEST_TOKS" | bc -l)
+      if [ "$COMPARE" -eq 1 ]; then
+        BEST_TOKS=$TOKS
+        BEST_SETTINGS="threads=$THREADS batch=$BATCH"
+      fi
+    else
+      echo "Tidak ada hasil (mungkin timeout terlalu pendek)"
+    fi
+  done
+done
+
+echo
+echo "====================================="
+echo "Setting optimal: $BEST_SETTINGS dengan $BEST_TOKS tok/s"
+echo "====================================="
+```
+
+## Akhir Kata
+
+Jadi itulah kenapa belajar bash itu menarik.

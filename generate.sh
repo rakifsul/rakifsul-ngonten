@@ -8,6 +8,13 @@ README_FILE="$BASE_DIR/README.md"
 # Header untuk README
 echo "# List of RAKIFSUL Ngonten Blog Posts" > "$README_FILE"
 echo "" >> "$README_FILE"
+
+echo "**Pengumuman:**" >> "$README_FILE"
+echo "" >> "$README_FILE"
+echo "**Kami batal pindah dari GitHub ke substack, tapi kami akan menggunakan keduanya. Jadi, sekarang Anda bisa membaca RAKIFSUL Ngonten di repository ini atau di versi substack-nya dengan nama [RAKIFSUL Lagi Nulis](https://rakifsul.substack.com).**" >> "$README_FILE"
+
+echo "" >> "$README_FILE"
+
 echo "This repository contains my blog posts. If you want to read the English version, right click on your browser, then click \"Translate to English\". " >> "$README_FILE"
 echo "" >> "$README_FILE"
 
