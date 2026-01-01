@@ -8,11 +8,11 @@ This repository contains my blog posts. If you want to read the English version,
 
 ## Latest 5 Posts
 
+- [Cara Install LibreOffice jika Terlewat](teks/3-Ubuntu/Cara-Install-LibreOffice-jika-Terlewat.md)
 - [Cara Install Docker yang Lebih Mudah Lagi di Ubuntu](teks/2-Docker/Cara-Install-Docker-yang-Lebih-Mudah-Lagi-di-Ubuntu.md)
 - [Cara Memantau Output Banyak Aplikasi Terminal dengan Lebih Nyaman](teks/0-Trik-Unik/Cara-Memantau-Output-Banyak-Aplikasi-Terminal-dengan-Lebih-Nyaman.md)
 - [Cara Install ComfyUI dengan pyenv di Ubuntu](teks/0-Trik-Unik/Cara-Install-ComfyUI-dengan-pyenv-di-Ubuntu.md)
 - [Cara agar Bisa dan Terbiasa Menggunakan Linux](teks/7-Lain-Lain/Cara-agar-Bisa-dan-Terbiasa-Menggunakan-Linux.md)
-- [Daftar Aplikasi CLI yang Harus Anda Coba di Tahun 2025](teks/7-Lain-Lain/Daftar-Aplikasi-CLI-yang-Harus-Anda-Coba-di-Tahun-2025.md)
 
 ## 0-Trik-Unik
 
@@ -67,6 +67,7 @@ This repository contains my blog posts. If you want to read the English version,
 - [Beberapa Kebiasaan Saya saat Baru Menyewa VPS](teks/3-Ubuntu/Beberapa-Kebiasaan-Saya-saat-Baru-Menyewa-VPS.md)
 - [Cara Build kiwix serve dan kiwix tools dari Source Code dengan Target Linux](teks/3-Ubuntu/Cara-Build-kiwix-serve-dan-kiwix-tools-dari-Source-Code-dengan-Target-Linux.md)
 - [Cara Build VSCode dari Source Code dengan Target Linux](teks/3-Ubuntu/Cara-Build-VSCode-dari-Source-Code-dengan-Target-Linux.md)
+- [Cara Install LibreOffice jika Terlewat](teks/3-Ubuntu/Cara-Install-LibreOffice-jika-Terlewat.md)
 - [Cara Install Qemu KVM di Ubuntu](teks/3-Ubuntu/Cara-Install-Qemu-KVM-di-Ubuntu.md)
 - [Cara Manajemen File Remote dengan Nautilus](teks/3-Ubuntu/Cara-Manajemen-File-Remote-dengan-Nautilus.md)
 - [Cara Membangun Aplikasi Note Taking Fitur Berlimpah dengan Sedikit Coding](teks/3-Ubuntu/Cara-Membangun-Aplikasi-Note-Taking-Fitur-Berlimpah-dengan-Sedikit-Coding.md)
