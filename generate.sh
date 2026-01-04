@@ -67,6 +67,6 @@ echo "## Get More Precious Links" >> "$README_FILE"
 
 echo "" >> "$README_FILE"
 
-echo "- [www.rakifsul.my.id](https://www.rakifsul.my.id)" >> "$README_FILE"
+echo "- [www.rakifsul.my.id](https://rakifsul.github.io/#https://www.rakifsul.my.id)" >> "$README_FILE"
 
 echo "✅ README.md berhasil digenerate di $README_FILE"

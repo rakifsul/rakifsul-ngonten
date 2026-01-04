@@ -106,4 +106,4 @@ This repository contains my blog posts. If you want to read the English version,
 
 ## Get More Precious Links
 
-- [www.rakifsul.my.id](https://www.rakifsul.my.id)
+- [www.rakifsul.my.id](https://rakifsul.github.io/#https://www.rakifsul.my.id)
