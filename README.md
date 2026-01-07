@@ -2,7 +2,7 @@
 
 **Pengumuman:**
 
-**Kami batal pindah dari GitHub ke substack, tapi kami akan menggunakan keduanya. Jadi, sekarang Anda bisa membaca RAKIFSUL Ngonten di repository ini atau di versi substack-nya dengan nama [RAKIFSUL Lagi Nulis](https://rakifsul.substack.com).**
+**Kami batal pindah dari GitHub ke Substack, tapi kami akan menggunakan keduanya. Jadi, sekarang Anda bisa membaca RAKIFSUL Ngonten di repository ini atau membaca [RAKIFSUL Lagi Nulis](https://rakifsul.substack.com) di Substack.**
 
 This repository contains my blog posts. If you want to read the English version, right click on your browser, then click "Translate to English". 
 
