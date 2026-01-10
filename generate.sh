@@ -11,7 +11,7 @@ echo "" >> "$README_FILE"
 
 echo "**Pengumuman:**" >> "$README_FILE"
 echo "" >> "$README_FILE"
-echo "**Kami batal pindah dari GitHub ke Substack, tapi kami akan menggunakan keduanya. Jadi, sekarang Anda bisa membaca RAKIFSUL Ngonten di repository ini atau membaca [RAKIFSUL Lagi Nulis](https://rakifsul.substack.com) di Substack.**" >> "$README_FILE"
+echo "**Kami batal pindah dari GitHub ke Substack, tapi kami akan menggunakan keduanya. Jadi, sekarang Anda bisa membaca RAKIFSUL Ngonten di repository ini atau membaca [RAKIFSUL Lagi Nulis](https://rakifsul.github.io/?ref=github-rakifsul-ngonten#https://rakifsul.substack.com) di Substack.**" >> "$README_FILE"
 
 echo "" >> "$README_FILE"
 
@@ -67,6 +67,6 @@ echo "## Get More Precious Links" >> "$README_FILE"
 
 echo "" >> "$README_FILE"
 
-echo "- [www.rakifsul.my.id](https://rakifsul.github.io/#https://www.rakifsul.my.id)" >> "$README_FILE"
+echo "- [www.rakifsul.my.id](https://rakifsul.github.io/?ref=github-rakifsul-ngonten#https://www.rakifsul.my.id)" >> "$README_FILE"
 
 echo "✅ README.md berhasil digenerate di $README_FILE"
