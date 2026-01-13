@@ -104,6 +104,3 @@ This repository contains my blog posts. If you want to read the English version,
 - [Cara agar Bisa dan Terbiasa Menggunakan Linux](teks/7-Lain-Lain/Cara-agar-Bisa-dan-Terbiasa-Menggunakan-Linux.md)
 - [Daftar Aplikasi CLI yang Harus Anda Coba di Tahun 2025](teks/7-Lain-Lain/Daftar-Aplikasi-CLI-yang-Harus-Anda-Coba-di-Tahun-2025.md)
 
-## Start Here
-
-- [https://tinyurl.com/rakifsul](https://tinyurl.com/rakifsul)

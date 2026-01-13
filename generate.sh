@@ -63,10 +63,4 @@ find "$TEKS_DIR" -mindepth 1 -maxdepth 1 -type d | sort | while read -r cat_dir;
     echo "" >> "$README_FILE"
 done
 
-echo "## Start Here" >> "$README_FILE"
-
-echo "" >> "$README_FILE"
-
-echo "- [https://tinyurl.com/rakifsul](https://tinyurl.com/rakifsul)" >> "$README_FILE"
-
 echo "✅ README.md berhasil digenerate di $README_FILE"
