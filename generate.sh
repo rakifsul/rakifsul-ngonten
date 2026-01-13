@@ -11,7 +11,7 @@ echo "" >> "$README_FILE"
 
 echo "**Pengumuman:**" >> "$README_FILE"
 echo "" >> "$README_FILE"
-echo "**Kami batal pindah dari GitHub ke Substack, tapi kami akan menggunakan keduanya. Jadi, sekarang Anda bisa membaca RAKIFSUL Ngonten di repository ini atau membaca [RAKIFSUL Lagi Nulis](https://rakifsul.github.io/?ref=github-rakifsul-ngonten#https://rakifsul.substack.com) di Substack.**" >> "$README_FILE"
+echo "**Kami batal pindah dari GitHub ke Substack, tapi kami akan menggunakan keduanya. Jadi, sekarang Anda bisa membaca RAKIFSUL Ngonten di repository ini atau membaca [RAKIFSUL Lagi Nulis](https://rakifsul.github.io/?ref=github#https://rakifsul.substack.com) di Substack.**" >> "$README_FILE"
 
 echo "" >> "$README_FILE"
 
@@ -63,10 +63,10 @@ find "$TEKS_DIR" -mindepth 1 -maxdepth 1 -type d | sort | while read -r cat_dir;
     echo "" >> "$README_FILE"
 done
 
-echo "## Get More Precious Links" >> "$README_FILE"
+echo "## Start Here" >> "$README_FILE"
 
 echo "" >> "$README_FILE"
 
-echo "- [www.rakifsul.my.id](https://rakifsul.github.io/?ref=github-rakifsul-ngonten#https://www.rakifsul.my.id)" >> "$README_FILE"
+echo "- [https://tinyurl.com/rakifsul](https://tinyurl.com/rakifsul)" >> "$README_FILE"
 
 echo "✅ README.md berhasil digenerate di $README_FILE"

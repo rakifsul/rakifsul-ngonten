@@ -2,7 +2,7 @@
 
 **Pengumuman:**
 
-**Kami batal pindah dari GitHub ke Substack, tapi kami akan menggunakan keduanya. Jadi, sekarang Anda bisa membaca RAKIFSUL Ngonten di repository ini atau membaca [RAKIFSUL Lagi Nulis](https://rakifsul.github.io/?ref=github-rakifsul-ngonten#https://rakifsul.substack.com) di Substack.**
+**Kami batal pindah dari GitHub ke Substack, tapi kami akan menggunakan keduanya. Jadi, sekarang Anda bisa membaca RAKIFSUL Ngonten di repository ini atau membaca [RAKIFSUL Lagi Nulis](https://rakifsul.github.io/?ref=github#https://rakifsul.substack.com) di Substack.**
 
 This repository contains my blog posts. If you want to read the English version, right click on your browser, then click "Translate to English". 
 
@@ -104,6 +104,6 @@ This repository contains my blog posts. If you want to read the English version,
 - [Cara agar Bisa dan Terbiasa Menggunakan Linux](teks/7-Lain-Lain/Cara-agar-Bisa-dan-Terbiasa-Menggunakan-Linux.md)
 - [Daftar Aplikasi CLI yang Harus Anda Coba di Tahun 2025](teks/7-Lain-Lain/Daftar-Aplikasi-CLI-yang-Harus-Anda-Coba-di-Tahun-2025.md)
 
-## Get More Precious Links
+## Start Here
 
-- [www.rakifsul.my.id](https://rakifsul.github.io/?ref=github-rakifsul-ngonten#https://www.rakifsul.my.id)
+- [https://tinyurl.com/rakifsul](https://tinyurl.com/rakifsul)
