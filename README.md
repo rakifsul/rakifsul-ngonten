@@ -1,8 +1,6 @@
 # List of RAKIFSUL Ngonten Blog Posts
 
-**Pengumuman:**
-
-**Kami batal pindah dari GitHub ke Substack, tapi kami akan menggunakan keduanya. Jadi, sekarang Anda bisa membaca RAKIFSUL Ngonten di repository ini atau membaca [RAKIFSUL Lagi Nulis](https://rakifsul.github.io/?ref=github#https://rakifsul.substack.com) di Substack.**
+**Moved to [RAKIFSUL Lagi Nulis](https://rakifsul.substack.com).**
 
 This repository contains my blog posts. If you want to read the English version, right click on your browser, then click "Translate to English". 
 
