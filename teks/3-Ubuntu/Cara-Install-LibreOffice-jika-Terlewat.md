@@ -55,7 +55,7 @@ sudo snap install libreoffice
 
 Setelah Selesai, saya mendapati LibreOffice tersedia di start menu.
 
-## Bonus: Gallery
+## Screenshot
 
 <p align="center">
     <img src="../../media/Screenshot from 2026-01-01 12-05-24.png?raw=true" alt="tampilan"/>
